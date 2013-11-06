@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Humans, it is time to replace labor and step up!"
+date: 2013-11-05 16:53
+comments: true
+categories: [robot, ethics, labour]
+---
+{% blockquote Unknown %}
+Freedom is not to do what you want. Feedom is not to do what you don't want.
+{% endblockquote %}
+
+
+In 2009 while I was writing on my bachelor thesis I compared the future of mobile GPS (GPS in Smartphones) with Maslow's Pyramide of Needs. This was probably the first time I really had to think about the future of humans and our needs. Now four years later, I'm doing my PhD in Human Robot Interaction and I have similar thought. This time they are more concrete. This time I think, "What if human labour is replaced by robots?". I know for many who think about his scenario, it sounds more horrifying than great. What should humans work in the future. How should we manage such a world? One reason for this way of thinking is, that it is hard for us (humans) to think without our feeling [here a reference from a study on this field]. For example, if you are hungry and someone asked you following question: "If you are on an island for one week. What do you want? Water, or Food". Most people will say food. But if you ask them after a workout and they are thirsty, they will say water[ref]. As you see, feelings lead our thoughts. The problem with the idea of no labour and robots is, that we are right now in a economy crisis. Most of us know someone, or see in the news every day about places with not enough work, or other places where the only possible work is labour. This feeling blocks our bigger picture of the future. This picture is about fear and not about hope. Where politicians painted many years ago a fascinating great and healthy future for all of us, nowadays politicians work with fear for a bad dangerous future. I believe we should go back to a wonderful image of the future. And one wonderful image is, no single person on this planet needs to work in a hard and unhealthy environment any more, if they don't want. 
+
+Every month or so, I will extend this article or write a new one, where robots help or replace humans in an labour intensive job, so those humans don't need to have an unhealthy workplace any more. 
+
+Agriculture
+-------------
+
+
+Building
+-------------
+
+
+Manufacturing
+-------------
