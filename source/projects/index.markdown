@@ -14,6 +14,12 @@ Group Activity Wrist Band
 Tag A Price
 =============
 
+Fetal Movements
+=============
+
+ÖAMTC Android-App
+=============
+
 WERistIN (v2)
 =============
 
@@ -24,12 +30,6 @@ GeoSearch
 =============
 
 Gastro-Snacks
-=============
-
-Fetal Movements
-=============
-
-ÖAMTC Android-App
 =============
 
 In-House ERP System for AKD-Wohnen
