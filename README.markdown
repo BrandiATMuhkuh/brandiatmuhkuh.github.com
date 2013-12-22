@@ -19,6 +19,8 @@ For most changes, you don't need to reastert the server.
 4. ``git commit -m 'your message'``
 5. ``git push origin source``
 
+# trouble shooting
+<http://stackoverflow.com/questions/17609453/rake-gen-deploy-rejected-in-octopress>
 
 
 ## What is Octopress?
