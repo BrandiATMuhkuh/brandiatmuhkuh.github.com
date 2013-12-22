@@ -1,3 +1,26 @@
+Set up on empty account
+=========================
+
+# check out
+1. ``git clone -b source git@github.com:BrandiATMuhkuh/brandiatmuhkuh.github.com.git``
+2. ``cd brandiatmuhkuh.github.com``
+5. ``gem install bundler``
+6. ``bundle install``
+7. ``rake setup_github_pages``
+
+# look at your changes on your client pc
+``rake preview`` you should see your blog now on <http://localhost:4000>
+For most changes, you don't need to reastert the server.
+
+# deploy to github
+1. ``rake generate``
+2. ``rake deploy``
+3. ``git add . ``
+4. ``git commit -m 'your message'``
+5. ``git push origin source``
+
+
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
