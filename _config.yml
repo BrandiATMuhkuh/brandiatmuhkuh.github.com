@@ -2,6 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
+
 url: http://BrandiATMuhkuh.github.io
 title: Jürgen Brandstetter's [BrandiATMuhkuh's] blog
 subtitle: PhD Student in Human Robot Interaction
@@ -112,3 +113,4 @@ facebook_like: true
 
 # Facebook Like
 linkedin_user: brandiatmuhkuh
+
