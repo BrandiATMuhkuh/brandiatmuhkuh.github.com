@@ -54,17 +54,22 @@ My master project and thesis
 * **Backend:** 
 
 ## Group Activity Wrist Band
-{% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
+{% img /images/projects/prore.png 300 %}
+<iframe width="560" height="315" src="//www.youtube.com/embed/SjAfv6yWv_E?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/9VUYxXamAbg?rel=0" frameborder="0" allowfullscreen></iframe>
+
 **Company:**  <br />
 **My Job:**  <br />
 **Team Members:**  <br />
 **My Age:**  <br />
 
-**Technical Details:**
 
-* **Frontend:** Android
-* **Communication:** REST
-* **Backend:** 
+** Technology**
+
+* Android for calculation and visualisation
+* Arduino Lilipad for the wrist band
+* Bluetooth for communication
+* PostrreSQL as backend
 
 
 
@@ -86,20 +91,20 @@ My master project and thesis
 
 ## Fetal Movements
 <iframe src="https://docs.google.com/presentation/d/1DQKcvNDja9XUM54EY9cwV6gZtf2BuVBeHUQZM6ikVV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="800px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+At the end of my master I had to make for a class called "Beyond the Desktop and Building Interface and Interaction Technologies" a mobil hardware prototype. Coincidentally a friend of mine who was attending this course with me got pregnant. But she had a problem. Her partner was in Norway and she was in Vienna. So we decided to create a tool to transfer the movements of the baby in her belly to the partner in Norway. This was the birth of the fetal movement prototype.
 
-<iframe src="https://docs.google.com/file/d/0BydzO1mEr3Hld3pXNWluXzR5UlU/preview" width="100%" height="800px"></iframe>
+Here is a link to the paper: [Can you feel this - Sharing fetal movements over a distance](https://docs.google.com/file/d/0BydzO1mEr3Hld3pXNWluXzR5UlU)
 
-The project describes a system for sharing fetal movements over a distance, a new and interesting way of social interaction using wearable electronics and smart phones. 
+**Team Members:** 4 <br />
+**Affiliation:** Master in Media Informatics, Vienna Institute of Technology<br />
 
-**My Job:**  <br />
-**Team Members:**  <br />
-**My Age:**  <br />
+** Technologies Used**
 
-**Technical Details:**
+* Android as twitter bridge
+* Twitter as communication tool
+* Arduino Lilipad with force sensitive resistors to measure the babies movements
+* Bluetooth for communication with the belt
 
-* **Frontend:** 
-* **Communication:** 
-* **Backend:** 
 
 
 ## Heute App
@@ -132,7 +137,8 @@ Android Application for Austrias biggest car community. It includes a gas compar
 
 
 ## Tag A Price
-{% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
+{% img /images/projects/screencapture-beta-tagaprice-org2.png %}
+{% img /images/projects/screencapture-beta-tagaprice-org3.png %}
 One sentence: A User Generated Price Comparison Service
 
 TagAPrice is a consumer-created location-aware price comparison platform. It has been created during my bachelor practical.
