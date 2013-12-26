@@ -23,7 +23,7 @@ I'm part of a research project called "[Wordovator](http://www.wordovators.org/)
 ## HITLabNZ & University of Canterbury
 [{% img shadowImg http://www.hitlabnz.org/images/stories/pressMaterial/hitlab-nz-logo.png 300 %}](http://www.hitlabnz.org/)
 
-[{% img shadowImg /images/projects/uclogo.jpg 300 %}](http://www.templeton.org)
+[{% img shadowImg /images/projects/uclogo.jpg 300 %}](http://www.canterbury.ac.nz/)
 I am a PhD student at the HITLab NZ which is part of the Univeristy of Canterbury. 
 
 

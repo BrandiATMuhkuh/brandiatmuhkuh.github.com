@@ -112,7 +112,7 @@ Here is a link to the paper: [Can you feel this - Sharing fetal movements over a
 
 ## Heute App
 {% img shadowImg /images/projects/heute.webp 300 %}
-"Heute" is Austrias biggest news papers. My job was to integrate the epaper system and maintenance. 
+"Heute" is Austrias biggest news papers. My job was to integrate the epaper system and maintain the app. 
 
 **Google Play Link:** <https://play.google.com/store/apps/details?id=at.heute.android/><br />
 **Company:** [openresearch](http://openresearch.com) <br />
@@ -130,8 +130,7 @@ Here is a link to the paper: [Can you feel this - Sharing fetal movements over a
 ## ÖAMTC Android-App
 {% img shadowImg /images/projects/oeamtc.webp 300 %}
 {% img shadowImg /images/projects/oeamtc2.webp 300 %}
-Android Application for Austrias biggest car community. It includes a gas comparison system, community stations and many more. 
-
+ÖAMTC is Austrias biggest car cummunity. The Android application includes a gas comparison system, community stations and other useful featurs for drivers. 
 
 **Google Play Link:** <https://play.google.com/store/apps/details?id=at.oeamtc.android><br />
 **Company:** [openresearch](http://openresearch.com) <br />
@@ -149,19 +148,22 @@ Android Application for Austrias biggest car community. It includes a gas compar
 ## Tag A Price
 {% img shadowImg /images/projects/screencapture-beta-tagaprice-org2.png %}
 {% img shadowImg /images/projects/screencapture-beta-tagaprice-org3.png %}
-One sentence: A User Generated Price Comparison Service
+**In one sentence:** TagAPrice is a Consumer-Generated Location-Aware Price Comparison Service
 
-TagAPrice is a consumer-created location-aware price comparison platform. It has been created during my bachelor practical.
+This project has been created as my bachelor practicum. The idea of TagAPrice is to make the grocery market fully transparent. We buy groceries almost every day but we have no simple solution to find out where we get the cheapest product. TagAPrice tries to help to solve the problem. 
+
+The project is divided into three main parts. First a store database. Second a product datatbase. And thind, a price database to combine the other two datasets. Right now, TagAPrice is in sleep mode. That means we have no time to develop or add more data. We tried to find investors but three years ago it was very hard to find someone who wants to support such a project. Right now, I'm working on only one part of the platform. I want to create a mobile app that uses a receipt as input and extracts all products and prices from it. As soon as this is done we can restart to integrate the data into the full project. 
 
 **My Job:** Project Manager, UX-Designer <br />
 **Team Members:** 7 <br />
 **My Age:** 23-24 <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Frontend:** GWT (Google Web Toolkit), JAVA, HTML5, CSS3
-* **Communication:** GWT-RPC
-* **Backend:** Java Servlets, CouchDB
+* [GWT (Google Weg Toolkit)](http://www.gwtproject.org/) used as front and backend technology
+* GWT-RPC as communication protocol
+* [CouchDB](http://couchdb.apache.org/) as database
+* [Elasticsearch](http://www.elasticsearch.org/) as communication layer
 
 ## WERistIN (v2)
 {% img shadowImg /images/projects/screencapture-weristin-com.png %}
