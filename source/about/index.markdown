@@ -13,17 +13,17 @@ In short, I do what I love :D
 # Affiliation
 
 ## Northwestern University & Templeton Foundation
-[![Northwestern](http://www.northwestern.edu/univ-relations/identity-system/logos/NU_Logo_purple.jpg)](http://www.northwestern.edu)
+[{% img shadowImg http://www.northwestern.edu/univ-relations/identity-system/logos/NU_Logo_purple.jpg %}](http://www.northwestern.edu)
 
-[{% img http://www.templeton.org/sites/default/files/press-kit/primary_logo_RGB.jpg %}](http://www.templeton.org)
+[{% img shadowImg http://www.templeton.org/sites/default/files/press-kit/primary_logo_RGB.jpg %}](http://www.templeton.org)
 
 
 I'm part of a research project called "[Wordovator](http://www.wordovators.org/)". The research is funded by the [John Templeton Foundation](http://www.templeton.org/) and is led by the Northwestern University. [Press release for the Wordovator project](http://www.northwestern.edu/newscenter/stories/2013/03/playing-computer-games-for-fun-and-research.html)
 
 ## HITLabNZ & University of Canterbury
-[![HITLab NZ](http://www.hitlabnz.org/images/stories/pressMaterial/hitlab-nz-logo.png)](http://www.hitlabnz.org/)
+[{% img shadowImg http://www.hitlabnz.org/images/stories/pressMaterial/hitlab-nz-logo.png 300 %}](http://www.hitlabnz.org/)
 
-[{% img /images/projects/uclogo.jpg 300 %}](http://www.templeton.org)
+[{% img shadowImg /images/projects/uclogo.jpg 300 %}](http://www.templeton.org)
 I am a PhD student at the HITLab NZ which is part of the Univeristy of Canterbury. 
 
 
