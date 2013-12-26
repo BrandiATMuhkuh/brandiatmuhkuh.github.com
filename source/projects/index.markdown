@@ -129,8 +129,10 @@ Here is a link to the paper: [Can you feel this - Sharing fetal movements over a
 {% img /images/projects/oeamtc2.webp 300 %}
 Android Application for Austrias biggest car community. It includes a gas comparison system, community stations and many more. 
 
+
 **Google Play Link:** <https://play.google.com/store/apps/details?id=at.oeamtc.android><br />
-**My Job:** Software Developer, Cluster Algorithm Developer<br />
+**Company:** [openresearch](http://openresearch.com) <br />
+**My Job:** UI, Software and Cluster Algorithm Developer<br />
 **Team Members:** 7 <br />
 **My Age:** 24 <br />
 
