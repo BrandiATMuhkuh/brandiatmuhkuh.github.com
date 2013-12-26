@@ -54,7 +54,7 @@ My master project and thesis
 * **Backend:** 
 
 ## Group Activity Wrist Band
-{% img /images/projects/prore.png 300 %}
+{% img shadowImg /images/projects/prore.png 300 %}
 <iframe width="560" height="315" src="//www.youtube.com/embed/SjAfv6yWv_E?rel=0" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="//www.youtube.com/embed/9VUYxXamAbg?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -74,9 +74,9 @@ My master project and thesis
 
 
 ## HTML5 Epaper
-{% img /images/projects/screencapture-epaper-heute-at.png %}
+{% img shadowImg /images/projects/screencapture-epaper-heute-at.png %}
 
-{% img /images/projects/screencapture-epaper-heute-at2.png %}
+{% img shadowImg /images/projects/screencapture-epaper-heute-at2.png %}
 
 For many years Flash was the dominating technologie for ebook and epaper readers. But since Flash was not working on iOS devices and it got depricated in Android 4.x it was time for a HTML5 version. The HTML5 version runs now on all modern platforms and is capable of finger and mouse gestures. The biggest free newspaper in Austria is using our implementation. Check it out: http://epaper.heute.at . 
 
@@ -111,22 +111,25 @@ Here is a link to the paper: [Can you feel this - Sharing fetal movements over a
 
 
 ## Heute App
-{% img /images/projects/heute.webp 300%}
+{% img shadowImg /images/projects/heute.webp 300 %}
+"Heute" is Austrias biggest news papers. My job was to integrate the epaper system and maintenance. 
 
 **Google Play Link:** <https://play.google.com/store/apps/details?id=at.heute.android/><br />
+**Company:** [openresearch](http://openresearch.com) <br />
 **My Job:** Android Developer, Technical Support<br />
 **Team Members:** 7 <br />
 **My Age:** 24 <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Frontend:** Android, JAVA
-* **Communication:** JSON
+* Android 
+* JSON as communication 
+
 
 
 ## ÖAMTC Android-App
-{% img niceimg /images/projects/oeamtc.webp 300 %}
-{% img /images/projects/oeamtc2.webp 300 %}
+{% img shadowImg /images/projects/oeamtc.webp 300 %}
+{% img shadowImg /images/projects/oeamtc2.webp 300 %}
 Android Application for Austrias biggest car community. It includes a gas comparison system, community stations and many more. 
 
 
@@ -136,15 +139,16 @@ Android Application for Austrias biggest car community. It includes a gas compar
 **Team Members:** 7 <br />
 **My Age:** 24 <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Frontend:** Android, JAVA
-* **Communication:** JSON
+* Android 
+* Google Maps
+* JSON as communication 
 
 
 ## Tag A Price
-{% img /images/projects/screencapture-beta-tagaprice-org2.png %}
-{% img /images/projects/screencapture-beta-tagaprice-org3.png %}
+{% img shadowImg /images/projects/screencapture-beta-tagaprice-org2.png %}
+{% img shadowImg /images/projects/screencapture-beta-tagaprice-org3.png %}
 One sentence: A User Generated Price Comparison Service
 
 TagAPrice is a consumer-created location-aware price comparison platform. It has been created during my bachelor practical.
@@ -160,8 +164,8 @@ TagAPrice is a consumer-created location-aware price comparison platform. It has
 * **Backend:** Java Servlets, CouchDB
 
 ## WERistIN (v2)
-{% img /images/projects/screencapture-weristin-com.png %}
-{% img /images/projects/screencapture-weristin-com2.png %}
+{% img shadowImg /images/projects/screencapture-weristin-com.png %}
+{% img shadowImg /images/projects/screencapture-weristin-com2.png %}
 
 WERistIN is a local advertising service. It is divided into a web version and a stand alone version. The stand alone version is integrated into tourist-terminals which are sold in many cities is Austria. This Version (V2) is based on GoogleMap and we switched from a list concept to a touchscreen map concept. 
 
@@ -190,7 +194,7 @@ WERistIN is a local advertising service. It is divided into a web version and a 
 * **Backend:** PHP, MySQL
 
 ## GeoSearch
-{% img right /images/projects/screencapture-geosearch-fakeroot-at.png  'image' 'images' %}
+{% img shadowImg /images/projects/screencapture-geosearch-fakeroot-at.png %}
 GeoSearch is a Map-Crawler. Compared to Web-Crawler like google, GeoSearch crawls only Maps. The intention is to have a search engine for location based information. 
 
 **My Job:** Project Manager <br />
@@ -205,7 +209,7 @@ GeoSearch is a Map-Crawler. Compared to Web-Crawler like google, GeoSearch crawl
 
 
 ## Created own CMS
-{% img  /images/projects/screencapture-www-ortner-siegl-at-index-php.png%}
+{% img shadowImg /images/projects/screencapture-www-ortner-siegl-at-index-php.png%}
 To have some intellectual challenges while being in the army (It is compulsory in Austria) I created a content management system to run future project on it. I included several plugins and was used by many countries I sold it to. 
 
 At the end of the production it was used by: http://www.ortner-siegl.at, http://flyreini.at, http://www.stoecher.at, http://www.gasthauszurhoftaverne.at

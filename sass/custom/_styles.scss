@@ -1,1 +1,10 @@
 // Add your custom styling here.
+.shadowImg {  
+    border: 5px solid #fff;  
+    margin: 5px;  
+    position: relative;  
+    overflow: hidden;  
+    -webkit-box-shadow: 1px 1px 1px 1px #ccc;  
+    -moz-box-shadow: 1px 1px 1px 1px #ccc;  
+    box-shadow: 1px 1px 1px 1px #ccc;  
+}  
