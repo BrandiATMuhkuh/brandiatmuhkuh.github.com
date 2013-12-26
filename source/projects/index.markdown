@@ -78,16 +78,19 @@ My master project and thesis
 
 {% img /images/projects/screencapture-epaper-heute-at2.png %}
 
-**Company:** <http://Openresearch.com> <br />
+For many years Flash was the dominating technologie for ebook and epaper readers. But since Flash was not working on iOS devices and it got depricated in Android 4.x it was time for a HTML5 version. The HTML5 version runs now on all modern platforms and is capable of finger and mouse gestures. The biggest free newspaper in Austria is using our implementation. Check it out: http://epaper.heute.at . 
+
+**Project Link:** <http://epaper.heute.at/><br />
+**Company:** [openresearch](http://openresearch.com) <br />
 **My Job:** HTML5 Developer <br />
 **Team Members:** 8 <br />
 **My Age:** 24 <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Frontend:** Emberjs
-* **Communication:** Ember-Data
-* **Backend:** 
+* [Emberjs](http://emberjs.com/) as MVC framework
+* Ember-Data for data persistency
+* [Nodejs](http://nodejs.org/) 
 
 ## Fetal Movements
 <iframe src="https://docs.google.com/presentation/d/1DQKcvNDja9XUM54EY9cwV6gZtf2BuVBeHUQZM6ikVV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="800px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -109,7 +112,8 @@ Here is a link to the paper: [Can you feel this - Sharing fetal movements over a
 
 ## Heute App
 {% img /images/projects/heute.webp 300%}
- 
+
+**Google Play Link:** <https://play.google.com/store/apps/details?id=at.heute.android/><br />
 **My Job:** Android Developer, Technical Support<br />
 **Team Members:** 7 <br />
 **My Age:** 24 <br />
@@ -125,7 +129,7 @@ Here is a link to the paper: [Can you feel this - Sharing fetal movements over a
 {% img /images/projects/oeamtc2.webp 300 %}
 Android Application for Austrias biggest car community. It includes a gas comparison system, community stations and many more. 
 
-
+**Google Play Link:** <https://play.google.com/store/apps/details?id=at.oeamtc.android><br />
 **My Job:** Software Developer, Cluster Algorithm Developer<br />
 **Team Members:** 7 <br />
 **My Age:** 24 <br />
