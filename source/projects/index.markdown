@@ -168,10 +168,9 @@ The project is divided into three main parts. First a store database. Second a p
 ## WERistIN (v2)
 {% img shadowImg /images/projects/screencapture-weristin-com.png %}
 {% img shadowImg /images/projects/screencapture-weristin-com2.png %}
+WERistIN is a local advertising service. It is divided into a web version and a stand alone version. The stand alone version is integrated into tourist-terminals which are sold in many cities is Austria. This Version (V2) is based on GoogleMap and we switched from a list concept (WERistIN V1) to a touchscreen map concept.  
 
-WERistIN is a local advertising service. It is divided into a web version and a stand alone version. The stand alone version is integrated into tourist-terminals which are sold in many cities is Austria. This Version (V2) is based on GoogleMap and we switched from a list concept to a touchscreen map concept. 
-
-**My Job:** Lead Developer, Project Manager, Sale <br />
+**My Job:** CEO, Lead Developer, Project Manager, Sale <br />
 **Team Members:** 3 <br />
 **My Age:** 22-23 <br />
 
