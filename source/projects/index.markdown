@@ -54,7 +54,8 @@ My master project and thesis
 * **Backend:** 
 
 ## Group Activity Wrist Band
-{% img shadowImg /images/projects/prore.png 300 %}
+{% img shadowImg /images/projects/prore2.png 300 %}
+{% img shadowImg /images/projects/prore3.png 300 %}
 <iframe width="560" height="315" src="//www.youtube.com/embed/SjAfv6yWv_E?rel=0" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="//www.youtube.com/embed/9VUYxXamAbg?rel=0" frameborder="0" allowfullscreen></iframe>
 
@@ -184,17 +185,18 @@ WERistIN is a local advertising service. It is divided into a web version and a 
 
 
 ## WERistIN (V1)
-{% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
 WERistIN is a local advertising service. It is divided into a web version and a stand alone version. The stand alone version is integrated into tourist-terminals which are sold in many cities is Austria. 
+
+WERistIN was the start of my frist company I founded with my brother and this wife. The system itself builds on the "High scalable CMS" I created for a customer but we used a different business model. Our business model was built on reciprocity and pro accounts. Community like a foodball club could get access to our system for free but they had to make advertisment for us. And companies had to pay via pro account. 
 
 **My Job:** Lead Developer, Project Manager, Sale <br />
 **Team Members:** 3 <br />
 **My Age:** 18-20 <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Frontend:** HTML, JavaScript
-* **Backend:** PHP, MySQL
+* PHP as frontend and backend
+* MySQL as data storage
 
 ## GeoSearch
 {% img shadowImg /images/projects/screencapture-geosearch-fakeroot-at.png %}
@@ -235,18 +237,16 @@ At the end of the production it was used by: http://www.ortner-siegl.at, http://
 * Newsletter Support
 
 ## In-House ERP System for AKD-Wohnen
-{% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
-In-House ERP System for AKD-Wohnen based on qualitative methods for the design.
+In-House ERP System for AKD-Wohnen based on qualitative methods for the design. Between Army and University I had six month time to work in a interior design companie to optimice their process. My work was to analyse the company, using a HCI aproach and develop a ERP system for them. 
 
 **My Job:** Project Manager, Developer <br />
 **Team Members:** 8 <br />
 **My Age:** 20 <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Frontend:** HTML, JavaScript
-* **Communication:** 
-* **Backend:** PHP, MySQL
+* PHP as frontend and backend
+* MySQL as data storage
 
 ## Samsung Smart TV Video Service App
 {% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
