@@ -91,6 +91,7 @@ For many years Flash was the dominating technologie for ebook and epaper readers
 * [Emberjs](http://emberjs.com/) as MVC framework
 * Ember-Data for data persistency
 * [Nodejs](http://nodejs.org/) 
+* [Apache Cordova](http://cordova.apache.org/)
 
 ## Fetal Movements
 <iframe src="https://docs.google.com/presentation/d/1DQKcvNDja9XUM54EY9cwV6gZtf2BuVBeHUQZM6ikVV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="800px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -174,11 +175,12 @@ WERistIN is a local advertising service. It is divided into a web version and a 
 **Team Members:** 3 <br />
 **My Age:** 22-23 <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Frontend:** GWT (Google Web Toolkit), JAVA
-* **Communication:** JSON
-* **Backend:** PHP, MySQL
+* GWT (Google Web Toolkit), JAVA for frontend
+* JSON as communication protrocoll
+* PHP in the backend
+* MySQL for data storage
 
 
 ## WERistIN (V1)
@@ -202,11 +204,12 @@ GeoSearch is a Map-Crawler. Compared to Web-Crawler like google, GeoSearch crawl
 **Team Members:** 5 <br />
 **My Age:**22  <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Frontend:** GWT (Google Web Toolkit), JAVA
-* **Communication:**  GWT-RPC
-* **Backend:** Java Servlets, PostgreSQL
+* GWT (Google Web Toolkit), JAVA for frontend
+* GWT-RPC as communication layer
+* Java Servlets as backend
+* PostgreSQL for data storage
 
 
 ## Created own CMS
@@ -219,12 +222,17 @@ At the end of the production it was used by: http://www.ortner-siegl.at, http://
 **Team Members:** 2 <br />
 **My Age:** 18-22 <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Plugins:**  Webstore, Feedback System, Gallery, Newsletter
-* **Frontend:** HTML, JavaScript
-* **Communication:** 
-* **Backend:** PHP, MySQL
+* PHP as frontend and backend
+* MySQL as data storage
+
+**Plugin list**
+
+* Webstore
+* Feedback System
+* Gallery
+* Newsletter Support
 
 ## In-House ERP System for AKD-Wohnen
 {% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
