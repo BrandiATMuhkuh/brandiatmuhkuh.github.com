@@ -59,11 +59,9 @@ My master project and thesis
 <iframe width="560" height="315" src="//www.youtube.com/embed/SjAfv6yWv_E?rel=0" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="//www.youtube.com/embed/9VUYxXamAbg?rel=0" frameborder="0" allowfullscreen></iframe>
 
-**Company:**  <br />
-**My Job:**  <br />
-**Team Members:**  <br />
-**My Age:**  <br />
-
+**My Job:** UX-Designer, Tester <br />
+**Team Members:** 5 <br />
+**My Age:** 24-25 <br />
 
 ** Technology**
 
@@ -250,34 +248,47 @@ In-House ERP System for AKD-Wohnen based on qualitative methods for the design. 
 
 ## Samsung Smart TV Video Service App
 {% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
-A responsive web design framework for video platforms to make videos available on 10-Foot-UI, Smartphones, Tablets and Desktops. To be able to integrate the software into closed Smart-TVs the framework includes wrapper for Smart-TVs like Samsung-Smart-TV. 
+This was a project where I collaborated with Samsung Austria. The project is a responsive web design framework for video platforms to make videos available on 10-Foot-UI, Smartphones, Tablets and Desktops. To be able to integrate the software into closed Smart-TVs the framework includes wrapper for Smart-TVs like Samsung-Smart-TV. 
 
 **My Job:** Project Manager, UX Designer, Software Developer <br />
 **Team Members:** 3 <br />
 **My Age:** 25 <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Communication:** JSONP
-* **Backend:** PostgreSQL or CouchDB
+* Websockets
+* Samsung SmartTV API
+* PostgreSQL or CouchDB
+* [Youtube API](https://developers.google.com/youtube/)
 
 ## High scalable CMS
-{% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
-The software is created for manage hundreds of different websites on high scalable server system. On the service peak more than 300 pages ran on the servers. 
+The software was created to manage hundreds of different websites on high scalable server system. On the peak of the service more than 300 pages ran on the same system.  
 
 **My Job:** Project Manager <br />
 **Team Members:** 4 <br />
 **My Age:** 17 <br />
 
-**Technical Details:**
+**Technologies Used**
 
-* **Frontend:** HTML, JavaScript
-* **Communication:** 
-* **Backend:** PHP, MySQL
+* PHP as frontend and backend
+* MySQL as data storage
 
 # Little Projects
 
 ## Twitter pos/neg stock analyser
+
 ## Lets see how google maps cluster performs
+
 ## Talk with a chatbot
+{% img shadowImg /images/projects/robot.jpg 300 %}
+This is a proove of concept where I use only client side HRML5 tools so you can use your voice to chat with a chatbot. It should run with every modern browser, but not on mobile browsers (Mobile browser have a securit feature for recording a voice). You can try it here 
+https://googledrive.com/host/0BydzO1mEr3HlSEpOdFJNQVpzZms/index.html
+
+**Technologies Used**
+
+* [personalityforge](http://www.personalityforge.com/) API used as chatbot brain 
+* [jsonp.jit.su](jsonp.jit.su) used as JSONP proxy
+* [Google Translate Hack](thttp://translate.google.com/translate_tts?tl=en&q=This is awesome) used as text to speech tool
+* [HTML5 Voice Recognition](http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API) used as Speech to Text
+* [Google App Script](https://developers.google.com/apps-script/) used as backend service
+* Google Drive used as server
