@@ -22,6 +22,7 @@ The source can be found on my [github account](https://github.com/BrandiATMuhkuh
 * [Twitter Streaming API](https://dev.twitter.com/docs/streaming-apis) for realtime streaming. 
 
 ## Lets see how google maps cluster performs
+{% img shadowImg /images/projects/foresquareSuperMap.png %}
 
 ## Talk with a chatbot
 {% img shadowImg /images/projects/robot.jpg 300 %}
