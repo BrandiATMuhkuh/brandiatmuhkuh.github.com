@@ -93,12 +93,14 @@ My master project and thesis
 * **Communication:** REST
 * **Backend:** 
 
-## Group Activity Wrist Band
+## SportMate - The Group Activity Wrist Band
 {% img shadowImg /images/projects/prore2.png 300 %}
 {% img shadowImg /images/projects/prore3.png 300 %}
 <iframe width="560" height="315" src="//www.youtube.com/embed/SjAfv6yWv_E?rel=0" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="//www.youtube.com/embed/9VUYxXamAbg?rel=0" frameborder="0" allowfullscreen></iframe>
-text 
+SportMate was a one year project in the last year of my master study. The purpose of this project was to develop a prototype starting with research, expert interviews, cultural propes, educative propes, provocative prope, creating different scenarios, creating personal and finishing with prototype. At the end of this paper we presented our work to industrial leaders. 
+
+The idea of SportMate was to motivate people to more sport and to make them aware of how much sport they already did. To do so we created a wrist band which shows how much sport one person did in one week and how much sport his/her group, which this person joint, did in the same week. The goal is that all people in one group make enough sport to reach the group goal. Group goals are cobinations of individual goals. Only if all people reach their own individual goal the group goal is fullfilled. By indicating on the band that one person in the group makes sport, all other people should feel guilty not making sport. It can be seen as type of peer pressure for a good cause.  
 
 **My Job:** UX-Designer, Tester <br />
 **Team Members:** 5 <br />
