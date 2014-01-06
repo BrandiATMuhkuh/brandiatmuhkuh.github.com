@@ -21,8 +21,18 @@ The source can be found on my [github account](https://github.com/BrandiATMuhkuh
 * [Twitter node package](https://npmjs.org/package/twitter) to for twitter streaming
 * [Twitter Streaming API](https://dev.twitter.com/docs/streaming-apis) for realtime streaming. 
 
-## Lets see how google maps cluster performs
+## All Foursquare location on one Google Map
 {% img shadowImg /images/projects/foresquareSuperMap.png %}
+In October 2013 someone posted on [Hackernews](https://news.ycombinator.com/item?id=6513074) a link to a ~1Gb [Fouresquare](https://foursquare.com/) dataset. Since I enjoy a lot working with geo data, I though why not posting all foursquare locations on a google map, using the google maps cluster library. 
+
+At the end I added 336792 unique points on a google map. It takes about 1 minute to read the data from the database (~500Mb) using websockets but about 10 minutes to visualise them. As soon as the cluster library reaches around 1000 objects it becomes clearly slower. 
+
+**Technologies Used**
+
+* Websockets for data transfair
+* [Deployd](http://www.deployd.com/) as simple nodejs server
+* Google Maps Api
+* [Google Maps Ultility Library](https://code.google.com/p/google-maps-utility-library-v3/) for clustering
 
 ## Talk with a chatbot
 {% img shadowImg /images/projects/robot.jpg 300 %}
