@@ -277,7 +277,7 @@ In-House ERP System for AKD-Wohnen based on qualitative methods for the design. 
 * MySQL as data storage
 
 ## Samsung Smart TV Video Service App
-{% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
+<iframe width="560" height="315" src="//www.youtube.com/embed/odNC_Y9FL_8?rel=0" frameborder="0" allowfullscreen></iframe>
 This was a project where I collaborated with Samsung Austria. The project is a responsive web design framework for video platforms to make videos available on 10-Foot-UI, Smartphones, Tablets and Desktops. To be able to integrate the software into closed Smart-TVs the framework includes wrapper for Smart-TVs like Samsung-Smart-TV. 
 
 Documentation(German): https://drive.google.com/file/d/0BydzO1mEr3HlN2dlWl9iNW4xeW8/edit?usp=sharing 
