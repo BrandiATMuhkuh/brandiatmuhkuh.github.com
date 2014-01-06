@@ -8,6 +8,35 @@ footer: true
 ---
 My project are here. juhu
 
+# Little Projects
+
+## Twitter pos/neg stock analyser
+I want to find out if the positive and negative news about a company and a companies products on twitter reflect the stock market. If yes, is twitter faster or slower than the real stock movements. 
+
+The source can be found on my [github account](https://github.com/BrandiATMuhkuh/twitter-stock-predicter). But the project is in a very early stage. 
+
+**Technologies Used**
+
+* [NodeJs](nodejs.org) as easy programming environment. Awesome for prototyping
+* [Twitter node package](https://npmjs.org/package/twitter) to for twitter streaming
+* [Twitter Streaming API](https://dev.twitter.com/docs/streaming-apis) for realtime streaming. 
+
+## Lets see how google maps cluster performs
+
+## Talk with a chatbot
+{% img shadowImg /images/projects/robot.jpg 300 %}
+This is a proove of concept where I use only client side HRML5 tools so you can use your voice to chat with a chatbot. It should run with every modern browser, but not on mobile browsers (Mobile browser have a securit feature for recording a voice). You can try it here 
+https://googledrive.com/host/0BydzO1mEr3HlSEpOdFJNQVpzZms/index.html
+
+**Technologies Used**
+
+* [personalityforge](http://www.personalityforge.com/) API used as chatbot brain 
+* [jsonp.jit.su](jsonp.jit.su) used as JSONP proxy
+* [Google Translate Hack](thttp://translate.google.com/translate_tts?tl=en&q=This is awesome) used as text to speech tool
+* [HTML5 Voice Recognition](http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API) used as Speech to Text
+* [Google App Script](https://developers.google.com/apps-script/) used as backend service
+* Google Drive used as server
+
 # Big Projects
 
 
@@ -58,6 +87,7 @@ My master project and thesis
 {% img shadowImg /images/projects/prore3.png 300 %}
 <iframe width="560" height="315" src="//www.youtube.com/embed/SjAfv6yWv_E?rel=0" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="//www.youtube.com/embed/9VUYxXamAbg?rel=0" frameborder="0" allowfullscreen></iframe>
+text 
 
 **My Job:** UX-Designer, Tester <br />
 **Team Members:** 5 <br />
@@ -273,22 +303,3 @@ The software was created to manage hundreds of different websites on high scalab
 * PHP as frontend and backend
 * MySQL as data storage
 
-# Little Projects
-
-## Twitter pos/neg stock analyser
-
-## Lets see how google maps cluster performs
-
-## Talk with a chatbot
-{% img shadowImg /images/projects/robot.jpg 300 %}
-This is a proove of concept where I use only client side HRML5 tools so you can use your voice to chat with a chatbot. It should run with every modern browser, but not on mobile browsers (Mobile browser have a securit feature for recording a voice). You can try it here 
-https://googledrive.com/host/0BydzO1mEr3HlSEpOdFJNQVpzZms/index.html
-
-**Technologies Used**
-
-* [personalityforge](http://www.personalityforge.com/) API used as chatbot brain 
-* [jsonp.jit.su](jsonp.jit.su) used as JSONP proxy
-* [Google Translate Hack](thttp://translate.google.com/translate_tts?tl=en&q=This is awesome) used as text to speech tool
-* [HTML5 Voice Recognition](http://updates.html5rocks.com/2013/01/Voice-Driven-Web-Apps-Introduction-to-the-Web-Speech-API) used as Speech to Text
-* [Google App Script](https://developers.google.com/apps-script/) used as backend service
-* Google Drive used as server
