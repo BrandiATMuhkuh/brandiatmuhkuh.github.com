@@ -53,7 +53,7 @@ https://googledrive.com/host/0BydzO1mEr3HlSEpOdFJNQVpzZms/index.html
 
 ## Robot Peer Pressure and Conformity Experiments
 {% img shadowImg /images/projects/myNaoFriends.JPG 600 %}
-bla bla
+During my PhD at the [HITLabNZ](http://www.hitlabnz.org/index.php?option=com_jresearch&view=member&task=show&id=356&Itemid=253) (University of Canterbury, New Zealand) I will ask two main questions. **First, what is the most persuasive technique for robots to change human speech. Second, how can this change influence the peoples opinion.** To find and compare this techniques I use social science experiments as intellectual model. In my first experiment I recreate the famous [Asch](http://en.wikipedia.org/wiki/Asch_conformity_experiments) and [Sherif](http://en.wikipedia.org/wiki/Muzafer_Sherif) confomity experiments and extend them with regual and irregular words. The goal is to see if a group of social robots can create a conformity effect like humans. (*While writing this text, I was not done with collecting all data. The results will be added to this text as soon as I'm done with data collection.*) I believe it is important to understand how persuasive social robots can be and what this could mean for our social life. This would be especially from interrest if most robots were developed by a hand full of companies and those companies could remotely change the robots behavior. Mass media cound/can not be used to change the opinion of humans since it misses the social interaction between media and consumer. Social robots on the other hand, could add exactly this missing link. 
 
 
 {% img shadowImg /images/projects/DSC_4179.JPG 600 %}
