@@ -29,7 +29,7 @@ During my PhD at the [HITLabNZ](http://www.hitlabnz.org/index.php?option=com_jre
 
 
 # Rehabilitation Game
-<iframe width="560" height="315" src="//www.youtube.com/embed/qlRORhFw-4c?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/rrZrV4t98H0?rel=0" frameborder="0" allowfullscreen></iframe>
 For my master thesis at the [Vienna Institute of Technology (HCI Group)](http://igw.tuwien.ac.at/hci/) I created a "Positive Impact Game as a Contribution to Movement Rehabilitation". When a person looses its arm it is not only a physical challange but also a psychological challange. Most of the time engineers try to help participants by create tools which focus only on the physical (engineering) challanges but leave out the person as human beeing with feelings. My approach was to set the psychological situation of the participant in the middle and build a rehabilitation game around the person. My project builts up on the "Virtual Reality Training for Upper Limb Prosthesis Patients" project developed by Vienna Institute of Technology (Interactive Media Systems Group) and Otto-Bock. Their project was a typical engineering approach which fucused "only" on movement rehabilitation to limit the time untill a person can start with rehabilitation.
 
 Alltogether rehabilitation in the case of a lost arm combines five main problems

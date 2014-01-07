@@ -27,6 +27,52 @@ I'm part of a research project called "[Wordovator](http://www.wordovators.org/)
 I am a PhD student at the HITLab NZ which is part of the Univeristy of Canterbury. 
 
 
+## Education
+
+### University of Canterbury, New Zealand (Now)
+**Academic Studies of Human Robot Interaction** <br /> 
+**Degree:** Doctor in Human Interactive Technology
+
+* Tutor in Design Thinking and UX Design
+* PhD Thesis: Understanding Group Behavior In The Interaction Between
+* Users and Robots with a Focus on Persuasion and Linguistic Cues
+
+###Vienna University of Technology, Austria (09/2011 - 02/2013)
+**Academic Studies of Media Informatics** <br /> 
+**Degree:** Master of Science in Engineering
+
+* Human Computer Interaction
+* Software Architecture
+* Master Thesis: Positive Impact Games as a Contribution to Movement
+* Rehabilitation
+
+
+###Copenhagen University, Denmark (01/2011 - 07/2011)
+**Academic Studies of Computer Science** <br /> 
+**Degree:** Master of Science in Engineering
+
+* Cluster Algorithms 
+
+
+###Vienna University of Technology, Austria (2007 - 2011)
+**Academic Studies of Media Informatics** <br /> 
+**Degree:** Bachelor of Science in Engineering
+
+* Software Architecture
+* Bachelor Thesis: Applications for GPS on a Smartphone (BSc)
+
+
+###Secondary College HTBLA of Steyr, Austria (2001 - 2006)
+**Engineering for Electronic and Computer Science** <br /> 
+**Degree:** University-Entrance Diploma
+
+* Hardware Design
+* Electronics
+* Computer Science
+
+
+
+
 ## Conferences and barcamps
 Since I lived and studied in two of the coolest European cities Vienna and Copenhagen I had the chance to attend many conferences and barcamp. The following is a list of nice everevnts I could attend. 
 
