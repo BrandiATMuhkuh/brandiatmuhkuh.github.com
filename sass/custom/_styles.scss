@@ -5,6 +5,15 @@
     position: relative;  
     overflow: hidden;  
     box-shadow: 1px 1px 1px 2px #ccc;  
+} 
+
+.shadowImgMe {  
+    border: 5px solid #fff;  
+    margin: 5px;  
+    position: relative;  
+    overflow: hidden;  
+    box-shadow: 1px 1px 1px 2px #ccc; 
+    border-radius: 200px; 
 }  
 
 code {

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "My Little and Big Projects"
-date: 2013-08-10 20:25
+date: 2014-01-08
 comments: true
 sharing: true
 footer: true
