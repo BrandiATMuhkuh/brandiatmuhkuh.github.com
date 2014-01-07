@@ -10,3 +10,9 @@
 code {
 color: black;
 }
+
+article ul li{list-style:none;}
+
+article ul li:before {
+    content: "- "; /* caractère UTF-8 */
+}
