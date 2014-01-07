@@ -51,47 +51,50 @@ https://googledrive.com/host/0BydzO1mEr3HlSEpOdFJNQVpzZms/index.html
 # Big Projects
 
 
-## Robot Experiments
-{% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
-**Company:**  <br />
-**My Job:**  <br />
-**Team Members:**  <br />
-**My Age:**  <br />
-
-**Technical Details:**
-
-* **Frontend:** Android
-* **Communication:** REST
-* **Backend:** 
+## Robot Peer Pressure and Conformity Experiments
+{% img shadowImg /images/projects/myNaoFriends.JPG 600 %}
+bla bla
 
 
+{% img shadowImg /images/projects/DSC_4179.JPG 600 %}
+<br />
 
-## Shaelf
-{% img right /images/projects/oeamtc.webp 150 'image' 'images' %}
-**Company:**  <br />
-**My Job:**  <br />
-**Team Members:**  <br />
-**My Age:**  <br />
+** Technologies Used**
 
-**Technical Details:**
+* [Aldebaran NAO](http://www.aldebaran-robotics.com/en/) social robot
+* [NAO api](https://community.aldebaran-robotics.com/doc/1-14/index.html) for remote controlling 
+* [Deployd](http://deployd.com/) as simple node server for user tracking
 
-* **Frontend:** Android
-* **Communication:** REST
-* **Backend:** 
+
+
 
 ## Rehabilitation Game
-My master project and thesis
+<iframe width="560" height="315" src="//www.youtube.com/embed/qlRORhFw-4c?rel=0" frameborder="0" allowfullscreen></iframe>
+For my master thesis at the [Vienna Institute of Technology (HCI Group)](http://igw.tuwien.ac.at/hci/) I created a "Positive Impact Game as a Contribution to Movement Rehabilitation". When a person looses its arm it is not only a physical challange but also a psychological challange. Most of the time engineers try to help participants by create tools which focus only on the physical (engineering) challanges but leave out the person as human beeing with feelings. My approach was to set the psychological situation of the participant in the middle and build a rehabilitation game around the person. My project builts up on the "Virtual Reality Training for Upper Limb Prosthesis Patients" project developed by Vienna Institute of Technology (Interactive Media Systems Group) and Otto-Bock. Their project was a typical engineering approach which fucused "only" on movement rehabilitation to limit the time untill a person can start with rehabilitation.
 
-**Company:**  <br />
-**My Job:**  <br />
-**Team Members:**  <br />
-**My Age:**  <br />
+Alltogether rehabilitation in the case of a lost arm combines five main problems
 
-**Technical Details:**
+1. Repeating Tasks are Boring
+2. Prosthesis Production time
+3. 6 Month for wound healing
+4. psychological problems 
+5. psychological feedback
 
-* **Frontend:** Android
-* **Communication:** REST
-* **Backend:** 
+Task 1,2 and 3 where already solved by the previos team. My work focued on point 4 and 5. 
+
+{% img shadowImg /images/projects/finalMapSituation.png 600 %}
+
+To include the psychological problems in a game I tried to reflect the situation of the partient in the game. Since my game was built as a prototype it included 4 fixed situations: **death, help, create life, enjoy** (See figure above). The idea is that the partient is angry at the beginning. She/He just lost an arm. To get rid of the anger the partient can destroy trees and other surrounding objects (Attention: This approach is not suitable for everyone. For many people aggretion makes the situation even wors). In the next step the participant can help burning trees by putting water on them. The idea is, that she/he feels "useful" again. This should to regain self-confidence. In the third step the participant can pour flowers and trees and they start to come a live. This should give her/him back the the confidence of creating something new on her/him own. The last step is about enjoyment. Event though a person lost an arm, should not mean she/he can not enjoy live anymore. 
+
+
+
+Link to thesis: https://www.ims.tuwien.ac.at/publications/tuw-219779
+
+
+** Technologies Used**
+
+* [Unity3D](http://unity3d.com/) was used as game engine
+* [Open Tracker](http://studierstube.icg.tugraz.at/opentracker/) was used as tracking hardware
 
 ## SportMate - The Group Activity Wrist Band
 {% img shadowImg /images/projects/prore2.png 300 %}
@@ -106,7 +109,7 @@ The idea of SportMate was to motivate people to more sport and to make them awar
 **Team Members:** 5 <br />
 **My Age:** 24-25 <br />
 
-** Technology**
+** Technologies Used**
 
 * Android for calculation and visualisation
 * Arduino Lilipad for the wrist band
