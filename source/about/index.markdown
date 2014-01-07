@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-{% img shadowImgMe /images/projects/me2.jpg 200 %}
+{% img shadowImgMe /images/projects/mec2.jpg 200 %}
 Right now I'm officially a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboraty New Zealand. On the other hand. I'm also a full stack developer, prototyping freak, entrepreneur, design thinking tutor, android developer or anything else that comes up in hard or software. 
 
 In short, I do what I love :D
