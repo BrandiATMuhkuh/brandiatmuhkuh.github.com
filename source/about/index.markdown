@@ -38,7 +38,7 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 * PhD Thesis: Understanding Group Behaviour In The Interaction Between
 * Users and Robots with a Focus on Persuasion and Linguistic Cues
 
-###Vienna University of Technology, Austria (09/2011 - 02/2013)
+###Vienna University of Technology, Austria (2011-09 - 2013-02)
 **Academic Studies of Media Informatics** <br /> 
 **Degree:** Master of Science in Engineering
 
@@ -48,7 +48,7 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 * Rehabilitation
 
 
-###Copenhagen University, Denmark (01/2011 - 07/2011)
+###Copenhagen University, Denmark (2011/01 - 2011/07)
 **Academic Studies of Computer Science** <br /> 
 **Degree:** Master of Science in Engineering
 
