@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 {% img shadowImgMe /images/projects/mec2.jpg 200 %}
-Right now I'm officially a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboraty New Zealand. On the other hand. I'm also a full stack developer, prototyping freak, entrepreneur, design thinking tutor, android developer or anything else that comes up in hard or software. 
+Right now I'm officially a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboratory New Zealand. On the other hand. I'm also a full stack developer, prototyping freak, entrepreneur, design thinking tutor, android developer or anything else that comes up in hard or software. 
 
 In short, I do what I love :D
 
@@ -25,7 +25,7 @@ I'm part of a research project called "[Wordovator](http://www.wordovators.org/)
 [{% img shadowImg http://www.hitlabnz.org/images/stories/pressMaterial/hitlab-nz-logo.png 300 %}](http://www.hitlabnz.org/)
 
 [{% img shadowImg /images/projects/uclogo.jpg 300 %}](http://www.canterbury.ac.nz/)
-I am a PhD student at the HITLab NZ which is part of the Univeristy of Canterbury. 
+I am a PhD student at the HITLab NZ which is part of the University of Canterbury. 
 
 
 ## Education
@@ -35,7 +35,7 @@ I am a PhD student at the HITLab NZ which is part of the Univeristy of Canterbur
 **Degree:** Doctor in Human Interactive Technology
 
 * Tutor in Design Thinking and UX Design
-* PhD Thesis: Understanding Group Behavior In The Interaction Between
+* PhD Thesis: Understanding Group Behaviour In The Interaction Between
 * Users and Robots with a Focus on Persuasion and Linguistic Cues
 
 ###Vienna University of Technology, Austria (09/2011 - 02/2013)
@@ -74,8 +74,8 @@ I am a PhD student at the HITLab NZ which is part of the Univeristy of Canterbur
 
 
 
-## Conferences and barcamps
-Since I lived and studied in two of the coolest European cities Vienna and Copenhagen I had the chance to attend many conferences and barcamp. The following is a list of nice everevnts I could attend. 
+## Conferences and Barcamps
+Since I lived and studied in two of the coolest European cities Vienna and Copenhagen I had the chance to attend many conferences and barcamp. The following is a list of nice events I could attend. 
 
 
 * 2013/11/15-16 [CHI New Zealand](http://sigchinz.acm.org/chinz/2013/), Christchurch
@@ -89,4 +89,3 @@ Since I lived and studied in two of the coolest European cities Vienna and Copen
 * 2011/11/12 [User Experience Camp](http://www.barcamp.at/UXcamp_2011), Vienna
 * 2012/10/29-30 [Science BarCamp 2011](http://www.scibarcampvie.org/index.php/Main_Page), Vienna
 * 2010/10/20-21 [BarCamp and MobileCamp](http://www.barcamp.at/Barcamp_Vienna_10/2010), Vienna
-
