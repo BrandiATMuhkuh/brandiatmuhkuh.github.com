@@ -29,7 +29,7 @@ During my PhD at the [HITLabNZ](http://www.hitlabnz.org/index.php?option=com_jre
 
 
 # Rehabilitation Game
-<iframe width="560" height="315" src="//www.youtube.com/embed/rrZrV4t98H0?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/rrZrV4t98H0?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
 For my master thesis at the [Vienna Institute of Technology (HCI Group)](http://igw.tuwien.ac.at/hci/) I created a "Positive Impact Game as a Contribution to Movement Rehabilitation". When a person looses its arm it is not only a physical challenge but also a psychological challenge. Most of the time engineers try to help participants by create tools which focus only on the physical (engineering) challenges but leave out the person as human being with feelings. My approach was to set the psychological situation of the participant in the middle and build a rehabilitation game around the person. My project builds up on the "Virtual Reality Training for Upper Limb Prosthesis Patients" project developed by Vienna Institute of Technology (Interactive Media Systems Group) and Otto-Bock. Their project was a typical engineering approach which focused "only" on movement rehabilitation to limit the time until a person can start with rehabilitation.
 
 Altogether rehabilitation in the case of a lost arm combines five main problems
@@ -59,8 +59,8 @@ Link to thesis: https://www.ims.tuwien.ac.at/publications/tuw-219779
 # SportMate - The Group Activity Wrist Band
 {% img shadowImg /images/projects/prore2.png 300 %}
 {% img shadowImg /images/projects/prore3.png 300 %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SjAfv6yWv_E?rel=0" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="//www.youtube.com/embed/9VUYxXamAbg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/SjAfv6yWv_E?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/9VUYxXamAbg?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
 SportMate was a one year project in the last year of my master study. The purpose of this project was to develop a prototype starting with research, expert interviews, cultural probes, educative probes, provocative probe, creating different scenarios, creating personal and finishing with prototype. At the end of this paper we presented our work to industrial leaders. 
 
 The idea of SportMate was to motivate people to more sport and to make them aware of how much sport they already did. To do so we created a wrist band which shows how much sport one person did in one week and how much sport his/her group, which this person joint, did in the same week. The goal is that all people in one group make enough sport to reach the group goal. Group goals are combinations of individual goals. Only if all people reach their own individual goal the group goal is fulfilled. By indicating on the band that one person in the group makes sport, all other people should feel guilty not making sport. It can be seen as type of peer pressure for a good cause.  
@@ -134,7 +134,7 @@ For many years Flash was the dominating technology for ebook and epaper readers.
 
 
 # Fetal Movements
-<iframe src="https://docs.google.com/presentation/d/1DQKcvNDja9XUM54EY9cwV6gZtf2BuVBeHUQZM6ikVV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="800px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1DQKcvNDja9XUM54EY9cwV6gZtf2BuVBeHUQZM6ikVV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="800px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"  class="shadowImg"></iframe>
 At the end of my master I had to make for a class called "Beyond the Desktop and Building Interface and Interaction Technologies" a mobile hardware prototype. Coincidentally a friend of mine who was attending this course with me got pregnant. But she had a problem. Her partner was in Norway and she was in Vienna. So we decided to create a tool to transfer the movements of the baby in her belly to the partner in Norway. This was the birth of the fetal movement prototype.
 
 Here is a link to the paper: [Can you feel this - Sharing fetal movements over a distance](https://docs.google.com/file/d/0BydzO1mEr3Hld3pXNWluXzR5UlU)
@@ -253,7 +253,7 @@ In-House ERP System for AKD-Wohnen based on qualitative methods for the design. 
 * MySQL as data storage
 
 # Samsung Smart TV Video Service App
-<iframe width="560" height="315" src="//www.youtube.com/embed/odNC_Y9FL_8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/odNC_Y9FL_8?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
 This was a project where I collaborated with Samsung Austria. The project is a responsive web design framework for video platforms to make videos available on 10-Foot-UI, Smartphones, Tablets and Desktops. To be able to integrate the software into closed Smart-TVs the framework includes wrapper for Smart-TVs like Samsung-Smart-TV. 
 
 Documentation(German): https://drive.google.com/file/d/0BydzO1mEr3HlN2dlWl9iNW4xeW8/edit?usp=sharing 
