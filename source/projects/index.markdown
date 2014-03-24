@@ -12,7 +12,7 @@ All projects are sorted by date except the last part (**Little Projects**). Thos
 
 
 # Robot Peer Pressure and Conformity Experiments
-{% img shadowImg /images/projects/myNaoFriends.JPG 600 %}
+{% img shadowImg /images/projects/myNaoFriends.JPG %}
 During my PhD at the [HITLabNZ](http://www.hitlabnz.org/index.php?option=com_jresearch&view=member&task=show&id=356&Itemid=253) (University of Canterbury, New Zealand) I will ask two main questions. **First, what is the most persuasive technique for robots to change human speech. Second, how can this change influence the peoples opinion.** To find and compare this techniques I use social science experiments as intellectual model. In my first experiment I recreate the famous [Asch](http://en.wikipedia.org/wiki/Asch_conformity_experiments) and [Sherif](http://en.wikipedia.org/wiki/Muzafer_Sherif) conformity experiments and extend them with regular and irregular words. The goal is to see if a group of social robots can create a conformity effect like humans. (*While writing this text, I was not done with collecting all data. The results will be added to this text as soon as I'm done with data collection.*) I believe it is important to understand how persuasive social robots can be and what this could mean for our social life. This would be especially from interest if most robots were developed by a hand full of companies and those companies could remotely change the robots behaviour. Mass media could/can not be used to change the opinion of humans since it misses the social interaction between media and consumer. Social robots on the other hand, could add exactly this missing link. 
 
 
@@ -29,7 +29,7 @@ During my PhD at the [HITLabNZ](http://www.hitlabnz.org/index.php?option=com_jre
 
 
 # Rehabilitation Game
-<iframe width="560" height="315" src="//www.youtube.com/embed/rrZrV4t98H0?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="//www.youtube.com/embed/rrZrV4t98H0?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
 For my master thesis at the [Vienna Institute of Technology (HCI Group)](http://igw.tuwien.ac.at/hci/) I created a "Positive Impact Game as a Contribution to Movement Rehabilitation". When a person looses its arm it is not only a physical challenge but also a psychological challenge. Most of the time engineers try to help participants by create tools which focus only on the physical (engineering) challenges but leave out the person as human being with feelings. My approach was to set the psychological situation of the participant in the middle and build a rehabilitation game around the person. My project builds up on the "Virtual Reality Training for Upper Limb Prosthesis Patients" project developed by Vienna Institute of Technology (Interactive Media Systems Group) and Otto-Bock. Their project was a typical engineering approach which focused "only" on movement rehabilitation to limit the time until a person can start with rehabilitation.
 
 Altogether rehabilitation in the case of a lost arm combines five main problems
@@ -59,8 +59,8 @@ Link to thesis: https://www.ims.tuwien.ac.at/publications/tuw-219779
 # SportMate - The Group Activity Wrist Band
 {% img shadowImg /images/projects/prore2.png 300 %}
 {% img shadowImg /images/projects/prore3.png 300 %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SjAfv6yWv_E?rel=0" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="//www.youtube.com/embed/9VUYxXamAbg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="//www.youtube.com/embed/SjAfv6yWv_E?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
+<iframe width="100%" height="315" src="//www.youtube.com/embed/9VUYxXamAbg?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
 SportMate was a one year project in the last year of my master study. The purpose of this project was to develop a prototype starting with research, expert interviews, cultural probes, educative probes, provocative probe, creating different scenarios, creating personal and finishing with prototype. At the end of this paper we presented our work to industrial leaders. 
 
 The idea of SportMate was to motivate people to more sport and to make them aware of how much sport they already did. To do so we created a wrist band which shows how much sport one person did in one week and how much sport his/her group, which this person joint, did in the same week. The goal is that all people in one group make enough sport to reach the group goal. Group goals are combinations of individual goals. Only if all people reach their own individual goal the group goal is fulfilled. By indicating on the band that one person in the group makes sport, all other people should feel guilty not making sport. It can be seen as type of peer pressure for a good cause.  
@@ -134,7 +134,7 @@ For many years Flash was the dominating technology for ebook and epaper readers.
 
 
 # Fetal Movements
-<iframe src="https://docs.google.com/presentation/d/1DQKcvNDja9XUM54EY9cwV6gZtf2BuVBeHUQZM6ikVV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="800px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1DQKcvNDja9XUM54EY9cwV6gZtf2BuVBeHUQZM6ikVV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="800px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"  class="shadowImg"></iframe>
 At the end of my master I had to make for a class called "Beyond the Desktop and Building Interface and Interaction Technologies" a mobile hardware prototype. Coincidentally a friend of mine who was attending this course with me got pregnant. But she had a problem. Her partner was in Norway and she was in Vienna. So we decided to create a tool to transfer the movements of the baby in her belly to the partner in Norway. This was the birth of the fetal movement prototype.
 
 Here is a link to the paper: [Can you feel this - Sharing fetal movements over a distance](https://docs.google.com/file/d/0BydzO1mEr3Hld3pXNWluXzR5UlU)
@@ -253,10 +253,10 @@ In-House ERP System for AKD-Wohnen based on qualitative methods for the design. 
 * MySQL as data storage
 
 # Samsung Smart TV Video Service App
-<iframe width="560" height="315" src="//www.youtube.com/embed/odNC_Y9FL_8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="//www.youtube.com/embed/odNC_Y9FL_8?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
 This was a project where I collaborated with Samsung Austria. The project is a responsive web design framework for video platforms to make videos available on 10-Foot-UI, Smartphones, Tablets and Desktops. To be able to integrate the software into closed Smart-TVs the framework includes wrapper for Smart-TVs like Samsung-Smart-TV. 
 
-Documentation(German): https://drive.google.com/file/d/0BydzO1mEr3HlN2dlWl9iNW4xeW8/edit?usp=sharing 
+Documentation(German): [Here on google drive](https://drive.google.com/file/d/0BydzO1mEr3HlN2dlWl9iNW4xeW8/edit?usp=sharing)
 
 **My Job:** Project Manager, UX Designer, Software Developer <br />
 **Team Members:** 3 <br />
@@ -309,8 +309,7 @@ At the end I added 336792 unique points on a google map. It takes about 1 minute
 
 ## Talk with a chatbot
 {% img shadowImg /images/projects/robot.jpg 300 %}
-This is a prove of concept where I use only client side HTML5 tools so you can use your voice to chat with a chatbot. It should run with every modern browser, but not on mobile browsers (Mobile browser have a security feature for recording a voice). You can try it here 
-https://googledrive.com/host/0BydzO1mEr3HlSEpOdFJNQVpzZms/index.html
+This is a prove of concept where I use only client side HTML5 tools so you can use your voice to chat with a chatbot. It should run with every modern browser, but not on mobile browsers (Mobile browser have a security feature for recording a voice). You can try it [here](https://googledrive.com/host/0BydzO1mEr3HlSEpOdFJNQVpzZms/index.html)
 
 **Technologies Used**
 

@@ -28,9 +28,9 @@ I'm part of a research project called "[Wordovator](http://www.wordovators.org/)
 I am a PhD student at the HITLab NZ which is part of the University of Canterbury. 
 
 
-## Education
+# Education
 
-### University of Canterbury, New Zealand (Now)
+## University of Canterbury, New Zealand (Now)
 **Academic Studies of Human Robot Interaction** <br /> 
 **Degree:** Doctor in Human Interactive Technology
 
@@ -38,7 +38,7 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 * PhD Thesis: Understanding Group Behaviour In The Interaction Between
 * Users and Robots with a Focus on Persuasion and Linguistic Cues
 
-###Vienna University of Technology, Austria (2011-09 - 2013-02)
+## Vienna University of Technology, Austria (2011-09 - 2013-02)
 **Academic Studies of Media Informatics** <br /> 
 **Degree:** Master of Science in Engineering
 
@@ -48,14 +48,14 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 * Rehabilitation
 
 
-###Copenhagen University, Denmark (2011/01 - 2011/07)
+## Copenhagen University, Denmark (2011/01 - 2011/07)
 **Academic Studies of Computer Science** <br /> 
 **Degree:** Master of Science in Engineering
 
 * Cluster Algorithms 
 
 
-###Vienna University of Technology, Austria (2007 - 2011)
+## Vienna University of Technology, Austria (2007 - 2011)
 **Academic Studies of Media Informatics** <br /> 
 **Degree:** Bachelor of Science in Engineering
 
@@ -63,7 +63,7 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 * Bachelor Thesis: Applications for GPS on a Smartphone (BSc)
 
 
-###Secondary College HTBLA of Steyr, Austria (2001 - 2006)
+## Secondary College HTBLA of Steyr, Austria (2001 - 2006)
 **Engineering for Electronic and Computer Science** <br /> 
 **Degree:** University-Entrance Diploma
 
@@ -72,20 +72,23 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 * Computer Science
 
 
+# Press
+* 2014/03/24 http://www.scoop.co.nz/stories/SC1403/S00054/uc-researchers-believe-robots-can-persuade-people-to-conform.htm
+* 2014/03/24 http://nz.sports.yahoo.com/news/uc-researchers-believe-robots-persuade-173044642--spt.html
+* 2014/03/24 http://www.research.canterbury.ac.nz/rss/news/?feed=news&articleId=1250
 
-
-## Conferences and Barcamps
+# Conferences and Barcamps
 Since I lived and studied in two of the coolest European cities Vienna and Copenhagen I had the chance to attend many conferences and barcamp. The following is a list of nice events I could attend. 
 
 
-* 2013/11/15-16 [CHI New Zealand](http://sigchinz.acm.org/chinz/2013/), Christchurch
-* 2012/11/9-10 [User Experience Camp 2012](http://www.barcamp.at/UxCamp_2012), Vienna
+* 2013/11/15 [CHI New Zealand](http://sigchinz.acm.org/chinz/2013/), Christchurch
+* 2012/11/09 [User Experience Camp 2012](http://www.barcamp.at/UxCamp_2012), Vienna
 	* I presented the "Sharing fetal movements" Project
-* 2012/10/12-13 [FROG - Future of Reality and Gaming Conference,](http://www.frogvienna.at/en/) Vienna
-* 2012/06/1-3 [WIN² Future Conference](http://www.winquadrat.at/), Eisenstadt
-* 2011/05/11-13 [Click-and-Knowledge Conference 2011](http://engerom.ku.dk/clickonknowledge/), Copenhagen
-* 2011/04/02 Matchmingler, Entrepreneur Event at Copenhagen Business School
+* 2012/10/12 [FROG - Future of Reality and Gaming Conference,](http://www.frogvienna.at/en/) Vienna
+* 2012/06/01 [WIN² Future Conference](http://www.winquadrat.at/), Eisenstadt
+* 2011/05/11 [Click-and-Knowledge Conference 2011](http://engerom.ku.dk/clickonknowledge/), Copenhagen
+* 2011/04/02 [Matchmingler](https://www.facebook.com/media/set/?set=a.193979223971189.38450.144501958918916&type=3), Entrepreneur Event at Copenhagen Business School
 * 2011/12/03 [OpenData Hackathon](http://www.barcamp.at/OpenDataHackathon_2011), Vienna
 * 2011/11/12 [User Experience Camp](http://www.barcamp.at/UXcamp_2011), Vienna
-* 2012/10/29-30 [Science BarCamp 2011](http://www.scibarcampvie.org/index.php/Main_Page), Vienna
-* 2010/10/20-21 [BarCamp and MobileCamp](http://www.barcamp.at/Barcamp_Vienna_10/2010), Vienna
+* 2012/10/29 [Science BarCamp 2011](http://www.scibarcampvie.org/index.php/Main_Page), Vienna
+* 2010/10/20 [BarCamp and MobileCamp](http://www.barcamp.at/Barcamp_Vienna_10/2010), Vienna
