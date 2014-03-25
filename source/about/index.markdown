@@ -73,6 +73,8 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 
 
 # Press
+* 2014/03/25 http://www.stuff.co.nz/the-press/news/9863410/Can-robots-influence-humans
+* 2014/03/25 http://www.3news.co.nz/Robots-can-peer-pressure-humans---study/tabid/423/articleID/337201/Default.aspx
 * 2014/03/24 http://www.scoop.co.nz/stories/SC1403/S00054/uc-researchers-believe-robots-can-persuade-people-to-conform.htm
 * 2014/03/24 http://nz.sports.yahoo.com/news/uc-researchers-believe-robots-persuade-173044642--spt.html
 * 2014/03/24 http://www.research.canterbury.ac.nz/rss/news/?feed=news&articleId=1250
