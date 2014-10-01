@@ -13,13 +13,13 @@ description:
 # Navigation
 navigation:
 - text: Home
-  url: /index.html
-- text: Archives
-  url: /blog/archives
+  url: /
 - text: Projects
   url: /projects
-- text: About
-  url: /about
+- text: Blog
+  url: /blog
+#- text: Archives
+#  url: /blog/archives
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

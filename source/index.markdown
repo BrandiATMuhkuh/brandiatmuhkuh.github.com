@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Jurgen Brandstetter"
-date: 2014-01-12
+title: "Hi I'm Jürgen Brandstetter"
 comments: true
 sharing: true
 footer: true
