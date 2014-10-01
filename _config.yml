@@ -16,6 +16,8 @@ navigation:
   url: /
 - text: Projects
   url: /projects
+- text: CV
+  url: https://docs.google.com/document/d/1X8dEXZpvUhbZTxZfS6w2ErvkBy9Y2_8PsHhB9oM3gbQ/edit?usp=sharing
 - text: Blog
   url: /blog
 #- text: Archives
