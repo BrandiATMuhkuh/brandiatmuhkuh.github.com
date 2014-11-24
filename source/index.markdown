@@ -5,17 +5,21 @@ comments: true
 sharing: true
 footer: true
 ---
+<section class="card">
 {% img shadowImgMe /images/projects/mec2.jpg 200 %}
 Right now I'm officially a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboratory New Zealand. On the other hand. I'm also a full stack developer, prototyping freak, entrepreneur, design thinking tutor, android developer or anything else that comes up in hard or software. 
 
 In short, I do what I love :D
+</section>
+
+<section class="card">
 
 # Affiliation
 
 ## Northwestern University & Templeton Foundation
 [{% img shadowImg http://www.northwestern.edu/univ-relations/identity-system/logos/NU_Logo_purple.jpg %}](http://www.northwestern.edu)
 
-[{% img shadowImg http://www.templeton.org/sites/default/files/press-kit/primary_logo_RGB.jpg %}](http://www.templeton.org)
+[{% img shadowImg http://www.templeton.org/sites/default/files/press-kit/primary_logo_RGB.jpg 500 %}](http://www.templeton.org)
 
 
 I'm part of a research project called "[Wordovator](http://www.wordovators.org/)". The research is funded by the [John Templeton Foundation](http://www.templeton.org/) and is led by the Northwestern University. [Press release for the Wordovator project](http://www.northwestern.edu/newscenter/stories/2013/03/playing-computer-games-for-fun-and-research.html)
@@ -25,8 +29,9 @@ I'm part of a research project called "[Wordovator](http://www.wordovators.org/)
 
 [{% img shadowImg /images/projects/uclogo.jpg 300 %}](http://www.canterbury.ac.nz/)
 I am a PhD student at the HITLab NZ which is part of the University of Canterbury. 
+</section>
 
-
+<section class="card">
 # Education
 
 ## University of Canterbury, New Zealand (Now)
@@ -69,7 +74,9 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 * Electronics
 * Computer Science
 
+</section>
 
+<section class="card">
 # Press
 * 2014/03/25 http://www.stuff.co.nz/the-press/news/9863410/Can-robots-influence-humans
 * 2014/03/25 http://www.3news.co.nz/Robots-can-peer-pressure-humans---study/tabid/423/articleID/337201/Default.aspx
@@ -77,6 +84,9 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 * 2014/03/24 http://nz.sports.yahoo.com/news/uc-researchers-believe-robots-persuade-173044642--spt.html
 * 2014/03/24 http://www.research.canterbury.ac.nz/rss/news/?feed=news&articleId=1250
 
+</section>
+
+<section class="card">
 # Conferences and Barcamps
 Since I lived and studied in two of the coolest European cities Vienna and Copenhagen I had the chance to attend many conferences and barcamp. The following is a list of nice events I could attend. 
 
@@ -95,3 +105,5 @@ Since I lived and studied in two of the coolest European cities Vienna and Copen
 * 2011/11/12 [User Experience Camp](http://www.barcamp.at/UXcamp_2011), Vienna
 * 2012/10/29 [Science BarCamp 2011](http://www.scibarcampvie.org/index.php/Main_Page), Vienna
 * 2010/10/20 [BarCamp and MobileCamp](http://www.barcamp.at/Barcamp_Vienna_10/2010), Vienna
+
+</section>
