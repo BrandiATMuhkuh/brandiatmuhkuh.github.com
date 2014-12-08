@@ -27,6 +27,11 @@ During my PhD at the [HITLabNZ](http://www.hitlabnz.org/index.php?option=com_jre
 * [NAO api](https://community.aldebaran-robotics.com/doc/1-14/index.html) for remote controlling 
 * [Deployd](http://deployd.com/) as simple node server for user tracking
 
+** Publications**
+
+* [A peer pressure experiment: Recreation of the Asch conformity experiment with robots](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6942730&tag=1)
+* [Participants converge to humans but not to humanoid robots in an English past tense formation task](http://www.hitlabnz.org/index.php/people?view=publication&task=show&id=1588)
+
 </section>
 
 
@@ -152,7 +157,7 @@ For many years Flash was the dominating technology for ebook and epaper readers.
 <iframe src="https://docs.google.com/presentation/d/1DQKcvNDja9XUM54EY9cwV6gZtf2BuVBeHUQZM6ikVV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="800px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"  class="shadowImg"></iframe>
 At the end of my master I had to make for a class called "Beyond the Desktop and Building Interface and Interaction Technologies" a mobile hardware prototype. Coincidentally a friend of mine who was attending this course with me got pregnant. But she had a problem. Her partner was in Norway and she was in Vienna. So we decided to create a tool to transfer the movements of the baby in her belly to the partner in Norway. This was the birth of the fetal movement prototype.
 
-Here is a link to the paper: [Can you feel this - Sharing fetal movements over a distance](https://docs.google.com/file/d/0BydzO1mEr3Hld3pXNWluXzR5UlU)
+
 
 **Team Members:** 4 <br />
 **Affiliation:** Master in Media Informatics, Vienna Institute of Technology<br />
@@ -163,6 +168,10 @@ Here is a link to the paper: [Can you feel this - Sharing fetal movements over a
 * Twitter as communication tool
 * Arduino Lilipad with force sensitive resistors to measure the babies movements
 * Bluetooth for communication with the belt
+
+** Publications**
+
+* [Can you feel this - Sharing fetal movements over a distance](https://docs.google.com/file/d/0BydzO1mEr3Hld3pXNWluXzR5UlU)
 
 </section>
 

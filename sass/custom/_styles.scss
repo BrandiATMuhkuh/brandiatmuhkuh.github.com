@@ -78,6 +78,24 @@ section.card h2{
     padding-top: 10px;
 }
 
+
+section.card a:hover{
+  color: #eceb07;
+  background-color: #3bbc96;
+  font-weight: bold;
+}
+
+section.card a{
+  color: #3bbc96;
+  font-weight: bold;
+}
+
+a img {
+  display: block;
+}
+
+
+
 .blog-index article{
     padding: 10px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16);
@@ -91,3 +109,6 @@ section.card h2{
     border: 1px solid #EFEFEF;
     background-color: #FFFFFF;  
 }
+
+
+
