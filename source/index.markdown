@@ -91,6 +91,7 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 Since I lived and studied in two of the coolest European cities Vienna and Copenhagen I had the chance to attend many conferences and barcamp. The following is a list of nice events I could attend. 
 
 * 2014/10/27 [ICSR 2014](http://icsr2014.org/), Sydney
+	* Part of the International Program Committee
 * 2014/09/14 [IROS 2014](http://www.iros2014.org/), Chichago
 	* I presented by paper [A peer pressure experiment: Recreation of the Asch conformity experiment with robots](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6942730)
 * 2013/11/15 [CHI New Zealand](http://sigchinz.acm.org/chinz/2013/), Christchurch
