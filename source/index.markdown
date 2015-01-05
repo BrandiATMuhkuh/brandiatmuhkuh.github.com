@@ -17,7 +17,7 @@ In short, I do what I love :D
 # Affiliation
 
 ## Northwestern University & Templeton Foundation
-[{% img shadowImg http://www.northwestern.edu/univ-relations/identity-system/logos/NU_Logo_purple.jpg %}](http://www.northwestern.edu)
+[{% img shadowImg http://www.northwestern.edu/univ-relations/files/NU_Logo_purple.jpg %}](http://www.northwestern.edu)
 
 [{% img shadowImg http://www.templeton.org/sites/default/files/press-kit/primary_logo_RGB.jpg 500 %}](http://www.templeton.org)
 
