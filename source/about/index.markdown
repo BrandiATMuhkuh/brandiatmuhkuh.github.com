@@ -71,10 +71,14 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 * Electronics
 * Computer Science
 
-# Work
+# Work experience
 
 # Papers
-
+* 2015 - Fidgebot: Working Out while Working, HRI 2015
+* 2015 - Making HRI Accessible to Everyone Through Online Videos. A proposal for a µMOOC in Human Robot Interaction, HRI 2015
+* 2015 - Participants conform to humans but not to humanoid robots in an English past tenseformation task, Journal of Language & Social Psychology
+* 2014 - Participants converge to humans but not to humanoid robots in an English past tense formation task, Language and Society 2014
+* 2014 - A peer pressure experiment: Recreation of the Asch conformity experiment with robots, IROS 2014
 
 # Press
 * 2014/03/25 http://www.stuff.co.nz/the-press/news/9863410/Can-robots-influence-humans
