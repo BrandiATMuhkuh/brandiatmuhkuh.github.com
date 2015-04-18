@@ -71,6 +71,10 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 * Electronics
 * Computer Science
 
+# Work
+
+# Papers
+
 
 # Press
 * 2014/03/25 http://www.stuff.co.nz/the-press/news/9863410/Can-robots-influence-humans
@@ -82,10 +86,14 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 # Conferences and Barcamps
 Since I lived and studied in two of the coolest European cities Vienna and Copenhagen I had the chance to attend many conferences and barcamp. The following is a list of nice events I could attend. 
 
-
+* 2015/03/2-5 [HRI 2015](http://humanrobotinteraction.org/2015), Seattle
+	* [Presented a poster on my Microsoft Resarch project called Fidgebot](http://dl.acm.org/citation.cfm?id=2701979)
+	* [Presented at the education workshop](http://www.rose-hulman.edu/media/1599141/SandovalHRI_Education__From_outreach_to__new_researchers_in_the_field.pdf)
+* 2014/10/27-29 [ICSR 2014](http://icsr2014.org), Sydney
+* 2014/10/27-29 [IROS 2014](http://www.iros2014.org), Chicago
 * 2013/11/15 [CHI New Zealand](http://sigchinz.acm.org/chinz/2013/), Christchurch
 * 2012/11/09 [User Experience Camp 2012](http://www.barcamp.at/UxCamp_2012), Vienna
-	* I presented the "Sharing fetal movements" Project
+	* I presented the "[Sharing fetal movements](https://docs.google.com/file/d/0BydzO1mEr3Hld3pXNWluXzR5UlU)" Project
 * 2012/10/12 [FROG - Future of Reality and Gaming Conference,](http://www.frogvienna.at/en/) Vienna
 * 2012/06/01 [WIN² Future Conference](http://www.winquadrat.at/), Eisenstadt
 * 2011/05/11 [Click-and-Knowledge Conference 2011](http://engerom.ku.dk/clickonknowledge/), Copenhagen
