@@ -73,6 +73,20 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 
 # Work experience
 
+## HRI/HCI Research, New York City (2014/06 - 2014/10)
+** Fuse Labs - Microsoft Reserach **
+
+I worked on persuasive robotic technology. The goal was to motivate co-workers to stand or walk at least once an hour.
+
+**Project Link:** <http://epaper.heute.at/><br />
+**My Job:** Research, persuasvie algorithm, robot alogrithms <br />
+
+**Technologies Used**
+
+* [Python](https://www.python.org/) Used as webserver as well as NAO script language
+* [NAOqi](http://doc.aldebaran.com/2-1/naoqi/index.html) Is the SDK used to controll [NAO](https://www.aldebaran.com/en/humanoid-robot/nao-robot) robots
+
+
 # Papers
 * 2015 - Fidgebot: Working Out while Working, HRI 2015
 * 2015 - Making HRI Accessible to Everyone Through Online Videos. A proposal for a µMOOC in Human Robot Interaction, HRI 2015

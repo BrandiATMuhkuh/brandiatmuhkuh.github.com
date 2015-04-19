@@ -55,8 +55,8 @@ Task 1,2 and 3 where already solved by the previous team. My work was focused on
 To include the psychological problems in a game I tried to reflect the situation of the patient in the game. Since my game was built as a prototype it included 4 fixed situations: **death, help, create life, enjoy** (See figure above). The idea is that the patient is angry at the beginning. She/He just lost an arm. To get rid of the anger the patient can destroy trees and other surrounding objects (Attention: This approach is not suitable for everyone. For many people aggression makes the situation even worse). In the next step the participant can help burning trees by putting water on them. The idea is, that she/he feels "useful" again. This should to regain self-confidence. In the third step the participant can pour flowers and trees and they start to come a live. This should give her/him back the the confidence of creating something new on her/him own. The last step is about enjoyment. Event though a person lost an arm, should not mean she/he can not enjoy live anymore. 
 
 
-
-Link to thesis: https://www.ims.tuwien.ac.at/publications/tuw-219779
+** Publications**
+* [Positive Impact Game as a Contribution to Movement Rehabilitation](https://www.ims.tuwien.ac.at/publications/tuw-219779)
 
 
 ** Technologies Used**
