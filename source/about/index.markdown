@@ -73,19 +73,52 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 
 # Work experience
 
-## HRI/HCI Research, New York City (2014/06 - 2014/10)
-** Fuse Labs - Microsoft Reserach **
+## HRI/HCI Research - USA (2014/06 - 2014/10)
+[{% img shadowImg http://fuse.microsoft.com/content/img/fuse_logo.png300 %}](http://fuse.microsoft.com/)
+** Fuse Labs - Microsoft Research **
 
 I worked on persuasive robotic technology. The goal was to motivate co-workers to stand or walk at least once an hour.
 
-**Blog posts:** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers) ,[Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
+**Blog posts:** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers), [Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
 **Project Presentation: ** https://mix.office.com/watch/1txuvzwh356d8 <br />
-**My Job:** Research, persuasvie algorithm, robot alogrithms <br />
+**My Job:** research, persuasvie algorithm, robot alogrithms <br />
 
 **Technologies Used**
 
 * [Python](https://www.python.org/) Used as webserver as well as NAO script language
 * [NAOqi](http://doc.aldebaran.com/2-1/naoqi/index.html) Is the SDK used to controll [NAO](https://www.aldebaran.com/en/humanoid-robot/nao-robot) robots
+
+## Android and Web-App Developer - Austria (2012/07 - 2013/02)
+** COMPANY **
+
+Software Architect and Developer. Android, HTML5 Developer
+
+**Project Link** LINK LINKL LINK<br />
+**Technologies Used**
+
+## Project Manager, Chief Software Developer - Austria (2010/07 - 2011/10)
+** COMPANY **
+
+**Project Link** LINK LINKL LINK<br />
+**Technologies Used**
+
+## Android Developer - Austria (2010/09 - 2011/02)
+** COMPANY **
+
+**Project Link** LINK LINKL LINK<br />
+**Technologies Used**
+
+## Co-Founder, Project Manager, Chief Developer - Austria (2004/01 - 2010/12)
+** COMPANY **
+
+**Project Link** LINK LINKL LINK<br />
+**Technologies Used**
+
+## Project Manager, Chief Developer - Austria (2007/04 - 2007/09)
+** COMPANY **
+
+**Project Link** LINK LINKL LINK<br />
+**Technologies Used**
 
 
 # Papers
