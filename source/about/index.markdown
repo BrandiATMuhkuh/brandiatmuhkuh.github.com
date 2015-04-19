@@ -78,7 +78,8 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 
 I worked on persuasive robotic technology. The goal was to motivate co-workers to stand or walk at least once an hour.
 
-**Project Link:** <http://epaper.heute.at/><br />
+**Blog posts:** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers) ,[Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
+**Project Presentation: ** https://mix.office.com/watch/1txuvzwh356d8 <br />
 **My Job:** Research, persuasvie algorithm, robot alogrithms <br />
 
 **Technologies Used**
