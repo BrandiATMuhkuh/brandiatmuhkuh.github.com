@@ -6,6 +6,7 @@ sharing: true
 footer: true
 ---
 <section class="card">
+
 I created this page as a portfolio in which you will see some of my interesting projects in my private and professional life. I designed it to showcase some of my work with different technologies.
 
 All projects are sorted by date except the last part (**Little Projects**). Those projects are short weekend project. Just for fun.
