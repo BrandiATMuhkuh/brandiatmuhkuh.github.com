@@ -105,12 +105,12 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 ** Fuse Labs - Microsoft Research **
 [{% img shadowImg http://fuse.microsoft.com/content/img/fuse_logo.png %}](http://fuse.microsoft.com/)
 
+During my time at the FUSE Labs (Microsoft Research) I developed with Kati London and Noah Liebman a two tier tool to persuade co-workers to do more (mico)exercises during work hours. The reason for that was that most sociaties move to a more and more rigit office type workplace which creates many long term health issues. The two tier were devided into a screen based notification system and a social robot (NAO) based notification system. My main part of the project was to develop the robot side and implement it's navigation and persuasion algorithms. 
 
-I worked on persuasive robotic technology. The goal was to motivate co-workers to stand or walk at least once an hour.
 
-**Blog posts:** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers), [Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
+**Project references:** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers), [Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
 **Project Presentation: ** https://mix.office.com/watch/1txuvzwh356d8 <br />
-**My Job:** research, persuasvie algorithm, robot alogrithms <br />
+**Job tags:** research, persuasvie algorithm, robot alogrithms, python <br />
 
 **Technologies Used**
 
@@ -123,10 +123,18 @@ I worked on persuasive robotic technology. The goal was to motivate co-workers t
 ##### Austria (2012/07 - 2013/02)
 ** OpenResearch **
 
-Software Architect and Developer. Android, HTML5 Developer
+During my time at OpenResearch I worked on cluster algorithms to visualize vast amount of geo-locations in a fast a visually appealing way. I was also responsible for the integration into it's Android frontend. As a second project I worked on a HTML5 e-reader implementation. 
 
-**Project Link** LINK LINKL LINK<br />
+**Job tags:** Software Developer, Android Developer, HTML5 Developer
+
+**Project Link** [Oeamtc for Android](projects#anchor6), [HEUTE e-reader](projects#anchor4)<br />
 **Technologies Used**
+
+* Android
+* Java
+* Ember.js
+* HTML5
+* Javascript
 </section>
 
 <section class="card">
@@ -134,8 +142,15 @@ Software Architect and Developer. Android, HTML5 Developer
 ##### Austria (2010/07 - 2011/10)
 ** TagAPrice **
 
-**Project Link** LINK LINKL LINK<br />
+TagAPrice is a consumer-created location-aware price comparison platform. It stated as a bachelor project but formed into a bigger project over time. It was planed to run as a social enterprice. The goal was to make the comsumer-food market more transparent and at the same time help small businesses to survive. My jobs went from analysing the idea and market. Prototyping and designing the user interface. Developing the front end. Managing the team. Practically product development with a big focus on software development and design. 
+
+**Project Link** [Tag A Price](projects#anchor8)<br />
 **Technologies Used**
+
+* GWT (Google Web Toolkit)
+* MongoDB
+* Elastic Search
+* Open Street Map Api
 </section>
 
 <section class="card">
