@@ -15,7 +15,7 @@ In short, I do what I love :D
 <section class="card">
 
 # Affiliation
-
+<section class="card">
 ## Northwestern University & Templeton Foundation
 [{% img shadowImg http://www.northwestern.edu/univ-relations/files/NU_Logo_purple.jpg %}](http://www.northwestern.edu)
 
@@ -23,7 +23,9 @@ In short, I do what I love :D
 
 
 I'm part of a research project called "[Wordovator](http://www.wordovators.org/)". The research is funded by the [John Templeton Foundation](http://www.templeton.org/) and is led by the Northwestern University. [Press release for the Wordovator project](http://www.northwestern.edu/newscenter/stories/2013/03/playing-computer-games-for-fun-and-research.html)
+</section>
 
+<section class="card">
 ## HITLabNZ & University of Canterbury
 [{% img shadowImg http://www.hitlabnz.org/images/stories/pressMaterial/hitlab-nz-logo.png 300 %}](http://www.hitlabnz.org/)
 
@@ -31,12 +33,15 @@ I'm part of a research project called "[Wordovator](http://www.wordovators.org/)
 I am a PhD student at the HITLab NZ which is part of the University of Canterbury.
 </section>
 
+</section>
+
 <section class="card">
 # Education
 
 
 <section class="card">
-## University of Canterbury, New Zealand (Now)
+## University of Canterbury
+##### New Zealand (Now)
 **Academic Studies of Human Robot Interaction** <br />
 **Degree:** Doctor in Human Interactive Technology
 
@@ -46,7 +51,8 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 </section>
 
 <section class="card">
-## Vienna University of Technology, Austria (2011/09 - 2013/02)
+## Vienna University of Technology
+##### Austria (2011/09 - 2013/02)
 **Academic Studies of Media Informatics** <br />
 **Degree:** Master of Science in Engineering
 
@@ -57,7 +63,8 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 </section>
 
 <section class="card">
-## Copenhagen University, Denmark (2011/01 - 2011/07)
+## Copenhagen University
+##### Denmark (2011/01 - 2011/07)
 **Academic Studies of Computer Science** <br />
 **Degree:** Master of Science in Engineering
 
@@ -66,7 +73,8 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 </section>
 
 <section class="card">
-## Vienna University of Technology, Austria (2007 - 2011)
+## Vienna University of Technology
+##### Austria (2007 - 2011)
 **Academic Studies of Media Informatics** <br />
 **Degree:** Bachelor of Science in Engineering
 
@@ -76,7 +84,8 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 </section>
 
 <section class="card">
-## Secondary College HTBLA of Steyr, Austria (2001 - 2006)
+## Secondary College HTBLA of Steyr
+##### Austria (2001 - 2006)
 **Engineering for Electronic and Computer Science** <br />
 **Degree:** University-Entrance Diploma
 
@@ -91,7 +100,8 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 # Work experience
 
 <section class="card">
-## HRI/HCI Research, USA (2014/06 - 2014/10)
+## HRI/HCI Research
+##### USA (2014/06 - 2014/10)
 ** Fuse Labs - Microsoft Research **
 [{% img shadowImg http://fuse.microsoft.com/content/img/fuse_logo.png %}](http://fuse.microsoft.com/)
 
@@ -109,8 +119,9 @@ I worked on persuasive robotic technology. The goal was to motivate co-workers t
 </section>
 
 <section class="card">
-## Android and Web-App Developer - Austria (2012/07 - 2013/02)
-** COMPANY **
+## Android and Web-App Developer
+##### Austria (2012/07 - 2013/02)
+** OpenResearch **
 
 Software Architect and Developer. Android, HTML5 Developer
 
@@ -119,32 +130,43 @@ Software Architect and Developer. Android, HTML5 Developer
 </section>
 
 <section class="card">
-## Project Manager, Chief Software Developer - Austria (2010/07 - 2011/10)
-** COMPANY **
+## Project Manager, Chief Software Developer
+##### Austria (2010/07 - 2011/10)
+** TagAPrice **
 
 **Project Link** LINK LINKL LINK<br />
 **Technologies Used**
 </section>
 
 <section class="card">
-## Android Developer - Austria (2010/09 - 2011/02)
-** COMPANY **
+## Android Developer
+##### Austria (2010/09 - 2011/02)
+** OpenResearch **
+
+Cluster Algorithms for Map-Markers
+ÖAMTC-Android App
 
 **Project Link** LINK LINKL LINK<br />
 **Technologies Used**
 </section>
 
 <section class="card">
-## Co-Founder, Project Manager, Chief Developer - Austria (2004/01 - 2010/12)
-** COMPANY **
+## Co-Founder, Project Manager, Chief Developer
+##### Austria (2004/01 - 2010/12)
+** WERistIN **
+
+Project Management, UI-Designer, Customer Support, Salesman, Dynamic Webpage Developer (GWT)
 
 **Project Link** LINK LINKL LINK<br />
 **Technologies Used**
 </section>
 
 <section class="card">
-## Project Manager, Chief Developer - Austria (2007/04 - 2007/09)
-** COMPANY **
+## Project Manager, Chief Developer
+##### Austria (2007/04 - 2007/09)
+** A-K-D Wohnservice GmbH **
+
+I created the company intern enterprise system, based on AJAX/PHP/MySQL
 
 **Project Link** LINK LINKL LINK<br />
 **Technologies Used**
