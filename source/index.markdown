@@ -7,14 +7,14 @@ footer: true
 ---
 <section class="card">
 {% img shadowImgMe /images/projects/mec2.jpg 200 %}
-Currently, I’m a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboratory New Zealand (HITLabNZ), which is part of the university of Canterbury. I’m also a full stack developer, android developer, prototyping enthusiast, User Experience Designer, entrepreneur and design thinking tutor. In short, I’m involved in anything that is in hardware or software. 
+Currently, I’m a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboratory New Zealand (HITLabNZ), which is part of the university of Canterbury. I’m also a full stack developer, android developer, prototyping enthusiast, User Experience Designer, entrepreneur and design thinking tutor. In short, I’m involved in anything that is in hardware or software.
 
 In short, I do what I love :D
 </section>
 
 <section class="card">
 
-# Affiliation
+# Affiliation(s)
 <section class="card">
 ## Northwestern University & Templeton Foundation
 [{% img shadowImg http://www.northwestern.edu/univ-relations/files/NU_Logo_purple.jpg %}](http://www.northwestern.edu)
@@ -42,8 +42,8 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 <section class="card">
 ## University of Canterbury
 ##### New Zealand (Now)
-**Academic Studies of Human Robot Interaction** <br />
-**Degree:** Doctor in Human Interactive Technology
+**Academic Studies in Human Robot Interaction** <br />
+**Degree:** Doctor of Philosophy (PhD) in Human Interactive Technology
 
 * Tutor in Design Thinking and UX Design
 * PhD Thesis: Understanding Group Behaviour In The Interaction Between
@@ -53,7 +53,7 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 <section class="card">
 ## Vienna University of Technology
 ##### Austria (2011/09 - 2013/02)
-**Academic Studies of Media Informatics** <br />
+**Academic Studies in Media Informatics** <br />
 **Degree:** Master of Science in Engineering
 
 * Human Computer Interaction
@@ -65,7 +65,7 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 <section class="card">
 ## Copenhagen University
 ##### Denmark (2011/01 - 2011/07)
-**Academic Studies of Computer Science** <br />
+**Academic Studies in Computer Science** <br />
 **Degree:** Master of Science in Engineering
 
 * Cluster Algorithms
@@ -75,7 +75,7 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 <section class="card">
 ## Vienna University of Technology
 ##### Austria (2007 - 2011)
-**Academic Studies of Media Informatics** <br />
+**Academic Studies in Media Informatics** <br />
 **Degree:** Bachelor of Science in Engineering
 
 * Software Architecture
@@ -105,17 +105,17 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 ** Fuse Labs - Microsoft Research **
 [{% img shadowImg http://fuse.microsoft.com/content/img/fuse_logo.png %}](http://fuse.microsoft.com/)
 
-During my time at the FUSE Labs (Microsoft Research) I developed with Kati London and Noah Liebman a two tier tool to persuade co-workers to do more (mico)exercises during work hours. The reason for that was that most sociaties move to a more and more rigit office type workplace which creates many long term health issues. The two tier were devided into a screen based notification system and a social robot (NAO) based notification system. My main part of the project was to develop the robot side and implement it's navigation and persuasion algorithms. 
+During my time at the FUSE Labs (Microsoft Research) I developed with Kati London and Noah Liebman a two tier tool to persuade co-workers to do more (mico)exercises during work hours. The reason for that was that most societies move to a more and more rigit office type workplace which creates many long term health issues. The two tier were divided into a screen based notification system and a social robot (NAO) based notification system. My main part of the project was to develop the robot side and implement it's navigation and persuasion algorithms.
 
 
 **Project references:** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers), [Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
 **Project Presentation: ** https://mix.office.com/watch/1txuvzwh356d8 <br />
-**Job tags:** research, persuasvie algorithm, robot alogrithms, python <br />
+**Job tags:** research, persuasive algorithm, robot algorithms, python <br />
 
 **Technologies Used**
 
 * [Python](https://www.python.org/) Used as webserver as well as NAO script language
-* [NAOqi](http://doc.aldebaran.com/2-1/naoqi/index.html) Is the SDK used to controll [NAO](https://www.aldebaran.com/en/humanoid-robot/nao-robot) robots
+* [NAOqi](http://doc.aldebaran.com/2-1/naoqi/index.html) Is the SDK used to control [NAO](https://www.aldebaran.com/en/humanoid-robot/nao-robot) robots
 </section>
 
 <section class="card">
@@ -123,7 +123,7 @@ During my time at the FUSE Labs (Microsoft Research) I developed with Kati Londo
 ##### Austria (2012/07 - 2013/02)
 ** OpenResearch **
 
-During this time at OpenResearch I worked on a HTML5 e-reader implementation and Android application for Austrias biggest new paper (HEUTE).  
+During this time at OpenResearch I worked on a HTML5 e-reader implementation and Android application for Austria's biggest new paper (HEUTE).  
 
 **Project Link** [HEUTE Android](projects#anchor5), [HEUTE e-reader](projects#anchor4)<br />
 **Technologies Used**
@@ -140,7 +140,7 @@ During this time at OpenResearch I worked on a HTML5 e-reader implementation and
 ##### Austria (2010/07 - 2011/10)
 ** TagAPrice **
 
-TagAPrice is a consumer-created location-aware price comparison platform. It stated as a bachelor project but formed into a bigger project over time. It was planed to run as a social enterprice. The goal was to make the comsumer-food market more transparent and at the same time help small businesses to survive. My jobs went from analysing the idea and market. Prototyping and designing the user interface. Developing the front end. Managing the team. Practically product development with a big focus on software development and design. 
+TagAPrice is a consumer-created location-aware price comparison platform. It stated as a bachelor project but formed into a bigger project over time. It was planed to run as a social enterprise. The goal was to make the comsumer-food market more transparent and at the same time help small businesses to survive. My jobs went from analyzing the idea and market. Prototyping and designing the user interface. Developing the front end. Managing the team. Practically product development with a big focus on software development and design.
 
 **Project Link** [Tag A Price](projects#anchor8)<br />
 **Technologies Used**
@@ -156,7 +156,7 @@ TagAPrice is a consumer-created location-aware price comparison platform. It sta
 ##### Austria (2010/09 - 2011/02)
 ** OpenResearch **
 
-During my time at OpenResearch I was part of the development team creating the Android Application for OEAMTC. Austrias biggest Automobile club. Parts of that work was to develop cluster algorithms to visualize vast amount of geo-locations in a fast and visually appealing way.  
+During my time at OpenResearch I was part of the development team creating the Android Application for OEAMTC. Austria's biggest Automobile club. Parts of that work was to develop cluster algorithms to visualize vast amount of geo-locations in a fast and visually appealing way.  
 
 **Project Link** [Oeamtc for Android](projects#anchor6)<br />
 **Technologies Used**
@@ -170,9 +170,9 @@ During my time at OpenResearch I was part of the development team creating the A
 ##### Austria (2004/01 - 2010/12)
 ** WERistIN **
 
-WERistIN was the name of my company as well as the main product. The goal of WERistIN was to create a localised company and club register. The business modul was build on a simple subscription modul. We were also cooperating with tourist-terminal makers and city councils(this was before smartphones). After internet technologies started the get mature, we changed from a list base approach (Version 1) to a map based approach ([Verstin 2](http://weristin.com)).   
+WERistIN was the name of my company as well as the main product. The goal of WERistIN was to create a localized company and club register. The business module was build on a simple subscription module. We were also cooperating with tourist-terminal makers and city councils(this was before smartphones). After internet technologies started the get mature, we changed from a list base approach (Version 1) to a map based approach ([Verstin 2](http://weristin.com)).
 
-My job was to evaluate the market. Work with customers. Work with city councils. Find sponsors and do sponsoring. And create and lead the application development. 
+My job was to evaluate the market. Work with customers. Work with city councils. Find sponsors and do sponsoring. And create and lead the application development.
 
 
 **Project Link** [WERistin(V1)](projects#anchor11), [WERistiN(V2)](projects#anchor9)<br />
@@ -189,7 +189,7 @@ My job was to evaluate the market. Work with customers. Work with city councils.
 ##### Austria (2007/04 - 2007/09)
 ** A-K-D Wohnservice GmbH **
 
-A-K-D as a furtiture company was changing from a paper based project management solution to a web based solution. My working was to develop an ERP solution in collboration with all employees. That meant prototyping, interviewing and analycing the company and it's information management. 
+A-K-D as a furniture company was changing from a paper based project management solution to a web based solution. My working was to develop an ERP solution in collaboration with all employees. That meant prototyping, interviewing and analyzing the company and it's information management.
 
 **Project Link** [A-K-D ERP](projects#anchor13)<br />
 **Technologies Used**
@@ -205,7 +205,7 @@ A-K-D as a furtiture company was changing from a paper based project management 
 # Papers
 * 2015 - Fidgebot: Working Out while Working, HRI 2015
 * 2015 - Making HRI Accessible to Everyone Through Online Videos. A proposal for a µMOOC in Human Robot Interaction, HRI 2015
-* 2015 - Participants conform to humans but not to humanoid robots in an English past tenseformation task, Journal of Language & Social Psychology
+* 2015 - Participants conform to humans but not to humanoid robots in an English past transformational task, Journal of Language & Social Psychology
 * 2014 - Participants converge to humans but not to humanoid robots in an English past tense formation task, Language and Society 2014
 * 2014 - A peer pressure experiment: Recreation of the Asch conformity experiment with robots, IROS 2014
 </section>
