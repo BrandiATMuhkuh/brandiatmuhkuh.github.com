@@ -7,7 +7,7 @@ footer: true
 ---
 <section class="card">
 {% img shadowImgMe /images/projects/mec2.jpg 200 %}
-Right now I'm officially a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboratory New Zealand. On the other hand. I'm also a full stack developer, prototyping freak, entrepreneur, design thinking tutor, android developer or anything else that comes up in hard or software.
+Currently, I’m a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboratory New Zealand (HITLabNZ), which is part of the university of Canterbury. I’m also a full stack developer, android developer, prototyping enthusiast, User Experience Designer, entrepreneur and design thinking tutor. In short, I’m involved in anything that is in hardware or software. 
 
 In short, I do what I love :D
 </section>
