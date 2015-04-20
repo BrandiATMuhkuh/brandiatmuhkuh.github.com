@@ -189,10 +189,14 @@ My job was to evaluate the market. Work with customers. Work with city councils.
 ##### Austria (2007/04 - 2007/09)
 ** A-K-D Wohnservice GmbH **
 
-I created the company intern enterprise system, based on AJAX/PHP/MySQL
+A-K-D as a furtiture company was changing from a paper based project management solution to a web based solution. My working was to develop an ERP solution in collboration with all employees. That meant prototyping, interviewing and analycing the company and it's information management. 
 
-**Project Link** LINK LINKL LINK<br />
+**Project Link** [A-K-D ERP](projects#anchor13)<br />
 **Technologies Used**
+
+* PHP
+* Javascript
+* MySQL
 </section>
 
 </section>
