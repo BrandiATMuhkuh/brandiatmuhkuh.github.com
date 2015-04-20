@@ -123,11 +123,9 @@ During my time at the FUSE Labs (Microsoft Research) I developed with Kati Londo
 ##### Austria (2012/07 - 2013/02)
 ** OpenResearch **
 
-During my time at OpenResearch I worked on cluster algorithms to visualize vast amount of geo-locations in a fast a visually appealing way. I was also responsible for the integration into it's Android frontend. As a second project I worked on a HTML5 e-reader implementation. 
+During this time at OpenResearch I worked on a HTML5 e-reader implementation and Android application for Austrias biggest new paper (HEUTE).  
 
-**Job tags:** Software Developer, Android Developer, HTML5 Developer
-
-**Project Link** [Oeamtc for Android](projects#anchor6), [HEUTE e-reader](projects#anchor4)<br />
+**Project Link** [HEUTE Android](projects#anchor5), [HEUTE e-reader](projects#anchor4)<br />
 **Technologies Used**
 
 * Android
@@ -158,11 +156,13 @@ TagAPrice is a consumer-created location-aware price comparison platform. It sta
 ##### Austria (2010/09 - 2011/02)
 ** OpenResearch **
 
-Cluster Algorithms for Map-Markers
-ÖAMTC-Android App
+During my time at OpenResearch I was part of the development team creating the Android Application for OEAMTC. Austrias biggest Automobile club. Parts of that work was to develop cluster algorithms to visualize vast amount of geo-locations in a fast and visually appealing way.  
 
-**Project Link** LINK LINKL LINK<br />
+**Project Link** [Oeamtc for Android](projects#anchor6)<br />
 **Technologies Used**
+
+* Android
+* Java
 </section>
 
 <section class="card">
@@ -170,10 +170,18 @@ Cluster Algorithms for Map-Markers
 ##### Austria (2004/01 - 2010/12)
 ** WERistIN **
 
-Project Management, UI-Designer, Customer Support, Salesman, Dynamic Webpage Developer (GWT)
+WERistIN was the name of my company as well as the main product. The goal of WERistIN was to create a localised company and club register. The business modul was build on a simple subscription modul. We were also cooperating with tourist-terminal makers and city councils(this was before smartphones). After internet technologies started the get mature, we changed from a list base approach (Version 1) to a map based approach ([Verstin 2](http://weristin.com)).   
 
-**Project Link** LINK LINKL LINK<br />
+My job was to evaluate the market. Work with customers. Work with city councils. Find sponsors and do sponsoring. And create and lead the application development. 
+
+
+**Project Link** [WERistin(V1)](projects#anchor11), [WERistiN(V2)](projects#anchor9)<br />
 **Technologies Used**
+
+* GWT (Google Web Toolkit)
+* PHP
+* Javascript
+* MySQL
 </section>
 
 <section class="card">
