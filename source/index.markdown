@@ -108,7 +108,7 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 During my time at the FUSE Labs (Microsoft Research) I developed with Kati London and Noah Liebman a two tier tool to persuade co-workers to do more (mico)exercises during work hours. The reason for that was that most societies move to a more and more rigit office type workplace which creates many long term health issues. The two tier were divided into a screen based notification system and a social robot (NAO) based notification system. My main part of the project was to develop the robot side and implement it's navigation and persuasion algorithms.
 
 
-**Project references:** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers), [Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
+**Project link(s):** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers), [Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
 **Project Presentation: ** https://mix.office.com/watch/1txuvzwh356d8 <br />
 **Job tags:** research, persuasive algorithm, robot algorithms, python <br />
 
@@ -125,7 +125,7 @@ During my time at the FUSE Labs (Microsoft Research) I developed with Kati Londo
 
 During this time at OpenResearch I worked on a HTML5 e-reader implementation and Android application for Austria's biggest new paper (HEUTE).  
 
-**Project Link** [HEUTE Android](projects#anchor5), [HEUTE e-reader](projects#anchor4)<br />
+**Project link(s):** [HEUTE Android](projects#anchor5), [HEUTE e-reader](projects#anchor4)<br />
 **Technologies Used**
 
 * Android
@@ -142,7 +142,7 @@ During this time at OpenResearch I worked on a HTML5 e-reader implementation and
 
 TagAPrice is a consumer-created location-aware price comparison platform. It stated as a bachelor project but formed into a bigger project over time. It was planed to run as a social enterprise. The goal was to make the comsumer-food market more transparent and at the same time help small businesses to survive. My jobs went from analyzing the idea and market. Prototyping and designing the user interface. Developing the front end. Managing the team. Practically product development with a big focus on software development and design.
 
-**Project Link** [Tag A Price](projects#anchor8)<br />
+**Project link(s):** [Tag A Price](projects#anchor8)<br />
 **Technologies Used**
 
 * GWT (Google Web Toolkit)
@@ -158,7 +158,7 @@ TagAPrice is a consumer-created location-aware price comparison platform. It sta
 
 During my time at OpenResearch I was part of the development team creating the Android Application for OEAMTC. Austria's biggest Automobile club. Parts of that work was to develop cluster algorithms to visualize vast amount of geo-locations in a fast and visually appealing way.  
 
-**Project Link** [Oeamtc for Android](projects#anchor6)<br />
+**Project link(s):** [Oeamtc for Android](projects#anchor6)<br />
 **Technologies Used**
 
 * Android
@@ -175,7 +175,7 @@ WERistIN was the name of my company as well as the main product. The goal of WER
 My job was to evaluate the market. Work with customers. Work with city councils. Find sponsors and do sponsoring. And create and lead the application development.
 
 
-**Project Link** [WERistin(V1)](projects#anchor11), [WERistiN(V2)](projects#anchor9)<br />
+**Project link(s):** [WERistin(V1)](projects#anchor11), [WERistiN(V2)](projects#anchor9)<br />
 **Technologies Used**
 
 * GWT (Google Web Toolkit)
@@ -191,7 +191,7 @@ My job was to evaluate the market. Work with customers. Work with city councils.
 
 A-K-D as a furniture company was changing from a paper based project management solution to a web based solution. My working was to develop an ERP solution in collaboration with all employees. That meant prototyping, interviewing and analyzing the company and it's information management.
 
-**Project Link** [A-K-D ERP](projects#anchor13)<br />
+**Project link(s):** [A-K-D ERP](projects#anchor13)<br />
 **Technologies Used**
 
 * PHP
