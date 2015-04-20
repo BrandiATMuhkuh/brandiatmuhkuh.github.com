@@ -1,24 +1,24 @@
 // Add your custom styling here.
-.shadowImg {  
+.shadowImg {
     border: 1px solid #EFEFEF;
-    margin: 5px;  
+    margin: 5px;
     padding: 10px;
-    position: relative;  
-    overflow: hidden;  
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16); 
-    max-width: 97%;
-} 
-
-.shadowImgMe {  
-    border: 1px solid #EFEFEF; 
-    margin: 5px;  
-    padding: 10px;
-    position: relative;  
-    overflow: hidden;  
-    //box-shadow: 1px 1px 8px #999; 
-    border-radius: 200px; 
+    position: relative;
+    overflow: hidden;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16);
-}  
+    max-width: 97%;
+}
+
+.shadowImgMe {
+    border: 1px solid #EFEFEF;
+    margin: 5px;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+    //box-shadow: 1px 1px 8px #999;
+    border-radius: 200px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16);
+}
 
 
 
@@ -74,9 +74,16 @@ section.card h1{
     border-bottom: solid 1px #e0e0e0
 }
 
-section.card h2{
-    padding-top: 10px;
+
+h2{
+  font-weight: bold;
+  line-height: 30px;
+  padding-top: 0px;
 }
+section.card h2{
+    //padding-top: 10px;
+}
+
 
 
 section.card a:hover{
@@ -100,15 +107,12 @@ a img {
     padding: 10px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16);
     border: 1px solid #EFEFEF;
-    background-color: #FFFFFF;  
+    background-color: #FFFFFF;
 }
 
 .hentry .card{
     padding: 10px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16);
     border: 1px solid #EFEFEF;
-    background-color: #FFFFFF;  
+    background-color: #FFFFFF;
 }
-
-
-

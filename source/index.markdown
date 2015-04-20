@@ -7,7 +7,7 @@ footer: true
 ---
 <section class="card">
 {% img shadowImgMe /images/projects/mec2.jpg 200 %}
-Right now I'm officially a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboratory New Zealand. On the other hand. I'm also a full stack developer, prototyping freak, entrepreneur, design thinking tutor, android developer or anything else that comes up in hard or software. 
+Right now I'm officially a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboratory New Zealand. On the other hand. I'm also a full stack developer, prototyping freak, entrepreneur, design thinking tutor, android developer or anything else that comes up in hard or software.
 
 In short, I do what I love :D
 </section>
@@ -28,52 +28,137 @@ I'm part of a research project called "[Wordovator](http://www.wordovators.org/)
 [{% img shadowImg http://www.hitlabnz.org/images/stories/pressMaterial/hitlab-nz-logo.png 300 %}](http://www.hitlabnz.org/)
 
 [{% img shadowImg /images/projects/uclogo.jpg 300 %}](http://www.canterbury.ac.nz/)
-I am a PhD student at the HITLab NZ which is part of the University of Canterbury. 
+I am a PhD student at the HITLab NZ which is part of the University of Canterbury.
 </section>
 
 <section class="card">
 # Education
 
+
+<section class="card">
 ## University of Canterbury, New Zealand (Now)
-**Academic Studies of Human Robot Interaction** <br /> 
+**Academic Studies of Human Robot Interaction** <br />
 **Degree:** Doctor in Human Interactive Technology
 
 * Tutor in Design Thinking and UX Design
 * PhD Thesis: Understanding Group Behaviour In The Interaction Between
 * Users and Robots with a Focus on Persuasion and Linguistic Cues
+</section>
 
+<section class="card">
 ## Vienna University of Technology, Austria (2011/09 - 2013/02)
-**Academic Studies of Media Informatics** <br /> 
+**Academic Studies of Media Informatics** <br />
 **Degree:** Master of Science in Engineering
 
 * Human Computer Interaction
 * Software Architecture
 * Master Thesis: Positive Impact Games as a Contribution to Movement Rehabilitation
 
+</section>
 
+<section class="card">
 ## Copenhagen University, Denmark (2011/01 - 2011/07)
-**Academic Studies of Computer Science** <br /> 
+**Academic Studies of Computer Science** <br />
 **Degree:** Master of Science in Engineering
 
-* Cluster Algorithms 
+* Cluster Algorithms
 
+</section>
 
+<section class="card">
 ## Vienna University of Technology, Austria (2007 - 2011)
-**Academic Studies of Media Informatics** <br /> 
+**Academic Studies of Media Informatics** <br />
 **Degree:** Bachelor of Science in Engineering
 
 * Software Architecture
 * Bachelor Thesis: Applications for GPS on a Smartphone (BSc)
 
+</section>
 
+<section class="card">
 ## Secondary College HTBLA of Steyr, Austria (2001 - 2006)
-**Engineering for Electronic and Computer Science** <br /> 
+**Engineering for Electronic and Computer Science** <br />
 **Degree:** University-Entrance Diploma
 
 * Hardware Design
 * Electronics
 * Computer Science
+</section>
 
+</section>
+
+<section class="card">
+# Work experience
+
+<section class="card">
+## HRI/HCI Research, USA (2014/06 - 2014/10)
+** Fuse Labs - Microsoft Research **
+[{% img shadowImg http://fuse.microsoft.com/content/img/fuse_logo.png %}](http://fuse.microsoft.com/)
+
+
+I worked on persuasive robotic technology. The goal was to motivate co-workers to stand or walk at least once an hour.
+
+**Blog posts:** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers), [Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
+**Project Presentation: ** https://mix.office.com/watch/1txuvzwh356d8 <br />
+**My Job:** research, persuasvie algorithm, robot alogrithms <br />
+
+**Technologies Used**
+
+* [Python](https://www.python.org/) Used as webserver as well as NAO script language
+* [NAOqi](http://doc.aldebaran.com/2-1/naoqi/index.html) Is the SDK used to controll [NAO](https://www.aldebaran.com/en/humanoid-robot/nao-robot) robots
+</section>
+
+<section class="card">
+## Android and Web-App Developer - Austria (2012/07 - 2013/02)
+** COMPANY **
+
+Software Architect and Developer. Android, HTML5 Developer
+
+**Project Link** LINK LINKL LINK<br />
+**Technologies Used**
+</section>
+
+<section class="card">
+## Project Manager, Chief Software Developer - Austria (2010/07 - 2011/10)
+** COMPANY **
+
+**Project Link** LINK LINKL LINK<br />
+**Technologies Used**
+</section>
+
+<section class="card">
+## Android Developer - Austria (2010/09 - 2011/02)
+** COMPANY **
+
+**Project Link** LINK LINKL LINK<br />
+**Technologies Used**
+</section>
+
+<section class="card">
+## Co-Founder, Project Manager, Chief Developer - Austria (2004/01 - 2010/12)
+** COMPANY **
+
+**Project Link** LINK LINKL LINK<br />
+**Technologies Used**
+</section>
+
+<section class="card">
+## Project Manager, Chief Developer - Austria (2007/04 - 2007/09)
+** COMPANY **
+
+**Project Link** LINK LINKL LINK<br />
+**Technologies Used**
+</section>
+
+</section>
+
+<section class="card">
+# Papers
+* 2015 - Fidgebot: Working Out while Working, HRI 2015
+* 2015 - Making HRI Accessible to Everyone Through Online Videos. A proposal for a µMOOC in Human Robot Interaction, HRI 2015
+* 2015 - Participants conform to humans but not to humanoid robots in an English past tenseformation task, Journal of Language & Social Psychology
+* 2014 - Participants converge to humans but not to humanoid robots in an English past tense formation task, Language and Society 2014
+* 2014 - A peer pressure experiment: Recreation of the Asch conformity experiment with robots, IROS 2014
 </section>
 
 <section class="card">
@@ -88,7 +173,7 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 
 <section class="card">
 # Conferences and Barcamps
-Since I lived and studied in two of the coolest European cities Vienna and Copenhagen I had the chance to attend many conferences and barcamp. The following is a list of nice events I could attend. 
+Since I lived and studied in two of the coolest European cities Vienna and Copenhagen I had the chance to attend many conferences and barcamp. The following is a list of nice events I could attend.
 
 * 2014/10/27 [ICSR 2014](http://icsr2014.org/), Sydney
 	* Part of the International Program Committee
