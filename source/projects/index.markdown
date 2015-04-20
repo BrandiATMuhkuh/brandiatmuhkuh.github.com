@@ -13,6 +13,7 @@ All projects are sorted by date except the last part (**Little Projects**). Thos
 </section>
 
 <section class="card">
+<a name="anchor1"></a>
 # Robot Peer Pressure and Conformity Experiments
 {% img shadowImg /images/projects/myNaoFriends.JPG %}
 During my PhD at the [HITLabNZ](http://www.hitlabnz.org/index.php?option=com_jresearch&view=member&task=show&id=356&Itemid=253) (University of Canterbury, New Zealand) I will ask two main questions. **First, what is the most persuasive technique for robots to change human speech. Second, how can this change influence the peoples opinion.** To find and compare this techniques I use social science experiments as intellectual model. In my first experiment I recreate the famous [Asch](http://en.wikipedia.org/wiki/Asch_conformity_experiments) and [Sherif](http://en.wikipedia.org/wiki/Muzafer_Sherif) conformity experiments and extend them with regular and irregular words. The goal is to see if a group of social robots can create a conformity effect like humans. (*While writing this text, I was not done with collecting all data. The results will be added to this text as soon as I'm done with data collection.*) I believe it is important to understand how persuasive social robots can be and what this could mean for our social life. This would be especially from interest if most robots were developed by a hand full of companies and those companies could remotely change the robots behaviour. Mass media could/can not be used to change the opinion of humans since it misses the social interaction between media and consumer. Social robots on the other hand, could add exactly this missing link.
@@ -36,6 +37,7 @@ During my PhD at the [HITLabNZ](http://www.hitlabnz.org/index.php?option=com_jre
 
 
 <section class="card">
+<a name="anchor2"></a>
 # Rehabilitation Game
 <iframe width="100%" height="315" src="//www.youtube.com/embed/rrZrV4t98H0?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
 For my master thesis at the [Vienna Institute of Technology (HCI Group)](http://igw.tuwien.ac.at/hci/) I created a "Positive Impact Game as a Contribution to Movement Rehabilitation". When a person looses its arm it is not only a physical challenge but also a psychological challenge. Most of the time engineers try to help participants by create tools which focus only on the physical (engineering) challenges but leave out the person as human being with feelings. My approach was to set the psychological situation of the participant in the middle and build a rehabilitation game around the person. My project builds up on the "Virtual Reality Training for Upper Limb Prosthesis Patients" project developed by Vienna Institute of Technology (Interactive Media Systems Group) and Otto-Bock. Their project was a typical engineering approach which focused "only" on movement rehabilitation to limit the time until a person can start with rehabilitation.
@@ -69,6 +71,7 @@ To include the psychological problems in a game I tried to reflect the situation
 
 
 <section class="card">
+<a name="anchor3"></a>
 # SportMate - The Group Activity Wrist Band
 {% img shadowImg /images/projects/prore2.png 300 %}
 {% img shadowImg /images/projects/prore3.png 300 %}
@@ -92,6 +95,7 @@ The idea of SportMate was to motivate people to more sport and to make them awar
 </section>
 
 <section class="card">
+<a name="anchor4"></a>
 # HTML5 Epaper
 {% img shadowImg /images/projects/screencapture-epaper-heute-at.png %}
 
@@ -116,8 +120,9 @@ For many years Flash was the dominating technology for ebook and epaper readers.
 
 
 <section class="card">
+<a name="anchor5"></a>
 # Heute App
-{% img shadowImg /images/projects/heute.webp 300 %}
+{% img shadowImg /images/projects/heute.png 300 %}
 "Heute" is Austrias biggest news papers. My job was to integrate the epaper system and maintain the app.
 
 **Google Play Link:** <https://play.google.com/store/apps/details?id=at.heute.android/><br />
@@ -134,9 +139,10 @@ For many years Flash was the dominating technology for ebook and epaper readers.
 </section>
 
 <section class="card">
+<a name="anchor6"></a>
 # ÖAMTC Android-App
-{% img shadowImg /images/projects/oeamtc.webp 300 %}
-{% img shadowImg /images/projects/oeamtc2.webp 300 %}
+{% img shadowImg /images/projects/oeamtc.png 300 %}
+{% img shadowImg /images/projects/oeamtc2.png 300 %}
 ÖAMTC is Austria's biggest car community. The Android application includes a gas comparison system, community stations and other useful features for drivers.
 
 **Google Play Link:** <https://play.google.com/store/apps/details?id=at.oeamtc.android><br />
@@ -154,6 +160,7 @@ For many years Flash was the dominating technology for ebook and epaper readers.
 </section>
 
 <section class="card">
+<a name="anchor7"></a>
 # Fetal Movements
 <iframe src="https://docs.google.com/presentation/d/1DQKcvNDja9XUM54EY9cwV6gZtf2BuVBeHUQZM6ikVV4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="800px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"  class="shadowImg"></iframe>
 At the end of my master I had to make for a class called "Beyond the Desktop and Building Interface and Interaction Technologies" a mobile hardware prototype. Coincidentally a friend of mine who was attending this course with me got pregnant. But she had a problem. Her partner was in Norway and she was in Vienna. So we decided to create a tool to transfer the movements of the baby in her belly to the partner in Norway. This was the birth of the fetal movement prototype.
@@ -177,6 +184,7 @@ At the end of my master I had to make for a class called "Beyond the Desktop and
 </section>
 
 <section class="card">
+<a name="anchor8"></a>
 # Tag A Price
 {% img shadowImg /images/projects/screencapture-beta-tagaprice-org2.png %}
 {% img shadowImg /images/projects/screencapture-beta-tagaprice-org3.png %}
@@ -200,6 +208,7 @@ The project is divided into three main parts. First a store database. Second a p
 </section>
 
 <section class="card">
+<a name="anchor9"></a>
 # WERistIN (v2)
 {% img shadowImg /images/projects/screencapture-weristin-com.png %}
 {% img shadowImg /images/projects/screencapture-weristin-com2.png %}
@@ -219,6 +228,7 @@ WERistIN is a local advertising service. It is divided into a web version and a 
 </section>
 
 <section class="card">
+<a name="anchor10"></a>
 # GeoSearch
 {% img shadowImg /images/projects/screencapture-geosearch-fakeroot-at.png %}
 GeoSearch is a Map-Crawler. Compared to Web-Crawler like google, GeoSearch crawls only Maps. The intention is to have a search engine for location based information.
@@ -237,6 +247,7 @@ GeoSearch is a Map-Crawler. Compared to Web-Crawler like google, GeoSearch crawl
 </section>
 
 <section class="card">
+<a name="anchor11"></a>
 # WERistIN (V1)
 WERistIN is a local advertising service. It is divided into a web version and a stand alone version. The stand alone version is integrated into tourist-terminals which are sold in many cities is Austria.
 
@@ -254,6 +265,7 @@ WERistIN was the start of my first company I founded with my brother and this wi
 </section>
 
 <section class="card">
+<a name="anchor12"></a>
 # Created own CMS
 {% img shadowImg /images/projects/screencapture-www-ortner-siegl-at-index-php.png%}
 To have some intellectual challenges while being in the army (It is compulsory in Austria) I created a content management system to run future project on it. I included several plugins and was used by many countries I sold it to.
@@ -279,6 +291,7 @@ At the end of the production it was used by: http://www.ortner-siegl.at, http://
 </section>
 
 <section class="card">
+<a name="anchor13"></a>
 # In-House ERP System for AKD-Wohnen
 In-House ERP System for AKD-Wohnen based on qualitative methods for the design. Between Army and University I had six month time to work in a interior design company to optimize their process. My work was to analyse the company, using a HCI approach and develop a ERP system for them.
 
@@ -294,6 +307,7 @@ In-House ERP System for AKD-Wohnen based on qualitative methods for the design. 
 </section>
 
 <section class="card">
+<a name="anchor14"></a>
 # Samsung Smart TV Video Service App
 <iframe width="100%" height="315" src="//www.youtube.com/embed/odNC_Y9FL_8?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
 This was a project where I collaborated with Samsung Austria. The project is a responsive web design framework for video platforms to make videos available on 10-Foot-UI, Smartphones, Tablets and Desktops. To be able to integrate the software into closed Smart-TVs the framework includes wrapper for Smart-TVs like Samsung-Smart-TV.
@@ -314,6 +328,7 @@ Documentation(German): [Here on google drive](https://drive.google.com/file/d/0B
 </section>
 
 <section class="card">
+<a name="anchor15"></a>
 # High scalable CMS
 The software was created to manage hundreds of different websites on high scalable server system. On the peak of the service more than 300 pages ran on the same system.  
 
@@ -329,6 +344,7 @@ The software was created to manage hundreds of different websites on high scalab
 </section>
 
 <section class="card">
+<a name="anchor16"></a>
 # Little Projects
 
 ## Twitter pos/neg stock analyser
