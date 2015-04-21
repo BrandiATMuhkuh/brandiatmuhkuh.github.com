@@ -9,7 +9,7 @@ footer: true
 {% img shadowImgMe /images/projects/mec2.jpg 200 %}
 Currently, I’m a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboratory New Zealand (HITLabNZ), which is part of the university of Canterbury. I’m also a full stack developer, android developer, prototyping enthusiast, User Experience Designer, entrepreneur and design thinking tutor. In short, I’m involved in anything that is in hardware or software.
 
-In short, I do what I love :D
+In other words, I do what I love :D
 </section>
 
 <section class="card">
