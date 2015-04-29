@@ -30,6 +30,8 @@ After the game worked as expected, exept the size problem we decided to create a
 
 If you look carefully you will see that the box and the game field have a different color. That is because we smoothed it with oil. That gives it a nice shiny color and makes it long lasting. 
 
+Here is the [quarto.svg](/images/projects/quarto.svg) file to laser cut the game for yourselfe. 
+
 </section>
 
 <section class="card">
