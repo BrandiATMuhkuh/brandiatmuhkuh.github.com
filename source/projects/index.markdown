@@ -14,6 +14,25 @@ All projects are sorted by date except the last part (**Little Projects**). Thos
 </section>
 
 <section class="card">
+# Figebot - Workout while working
+
+
+</section>
+
+
+<section class="card">
+# Quarto - from paper prototype to high fidelity laser cut
+
+About ten years a ago my mom introduced me to a board game called Quarto. At the time it was the most awarded game ever (That's what the package said ;) ). When moving to Vienna and later to Christchurch I lost track of this fabioulous strategy game. A couple of month ago I remembered again and tried to find in local stores. But I couldn't find it. Since I was so excited to show it to my partner, I decided to just build it on my own. 
+Most game mechanics are not related to the actual graphics/fidelity/aestetics of the game. So I decided I go for a simple paper prototype. As you can see in the image (xxx), this protoype had everything needed for the game (The game has 16 pieces. Each piece has 4 characteristics that makes it unique.). After playering it for a while we realiced some parts would not work out perfectly. Especially the sice of the pieces. When you sit in the wrong angle it is very hard to see which part is big and which one is small. 
+
+After the game worked as expected, exept the size problem we decided to create a high fidelity laser cut version (see image xxx). To solve the size problem we decided to exchange the different sizes with a spiral. For the colors we used two types of colored plastic and he board was made out of wood. 
+
+If you look carefully you will see that the box and the game field have a different color. That is because we smoothed it with oil. That gives it a nice shiny color and makes it long lasting. 
+
+</section>
+
+<section class="card">
 <a name="anchor1"></a>
 # Robot Peer Pressure and Conformity Experiments
 {% img shadowImg /images/projects/myNaoFriends.JPG %}
