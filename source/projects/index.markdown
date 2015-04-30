@@ -22,13 +22,13 @@ During my time at the FUSE Labs (Microsoft Research) I developed with [Kati Lond
 
 <iframe width="100%" height="315" src="//www.youtube.com/embed/aZkmNqpJCcM?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
 
-Before participants could use any of these two systems, they were asked to set their daily goals. We didn't want to preset goals for all employees, as each one had to reach their own set goal; it's more persuasive this way! One of our systems was set to approach the employee and provoke a micro exercise.
+Before participants could use any of these two systems, they were asked to set their daily goals. We didn't want to preset goals for all employees, as each one had to reach their own set goal; it's more persuasive this way! One of our systems was set to approach the employee and provoke a micro-exercise.
 {% img shadowImg /images/projects/fidgebot4.jpg %}
 
 After the participant is set up. Our system will use one of the following two methods. Participant one would get a screen based notification. We simply used a modern HTML5 notifications for that.
-{% img shadowImg /images/projects/fidgebot5.png 250 %} For participant two, we sent a notification to NAO to wake her up (yes NAO is a female).. NAO would than walk to the participant and ask if s/he wants to do a short break with her...
+{% img shadowImg /images/projects/fidgebot5.png 250 %} For participant two, we sent a notification to NAO to wake her up (Yes NAO is a female). NAO would than walk to the participant and ask if s/he wants to do a short break with her.
 
-If the participant agrees, NAO then starts a random micro-excersice. In the following pictures NAO and two participants are dancing the [chicken dance](https://www.youtube.com/watch?v=4xmV5uHWNag). Always amuses Microsoft employees.
+If the participant agrees, NAO then starts a random micro-exercise. In the following pictures NAO and two participants are dancing the [chicken dance](https://www.youtube.com/watch?v=4xmV5uHWNag). Always amuses Microsoft employees.
 {% img shadowImg /images/projects/fidgebot2.gif 400 %}{% img shadowImg /images/projects/fidgebot3.gif 400 %}
 
 
@@ -47,7 +47,7 @@ If the participant agrees, NAO then starts a random micro-excersice. In the foll
 <a name="anchor001"></a>
 # Quarto - from paper prototype to high fidelity laser cut
 {% img shadowImg /images/projects/quarto3.jpg %}
-About ten years ago, my mom introduced me to a board game called [Quarto](http://en.wikipedia.org/wiki/Quarto_%28board_game%29). At the time it was the most awarded game ever (that's what's written on the package at least ;) ). After moving to Vienna and later to Christchurch I stopped playing this fabioulous strategy game. A couple of months ago I remembered again and tried to find it in local stores, but I couldn't. And since I was so excited to show it to my partner, I decided to just build it on my own.
+About ten years ago, my mom introduced me to a board game called [Quarto](http://en.wikipedia.org/wiki/Quarto_%28board_game%29). At the time it was the most awarded game ever (that's what's written on the package at least ;) ). After moving to Vienna and later to Christchurch I stopped playing this fabulous strategy game. A couple of months ago I remembered again and tried to find it in local stores, but I couldn't. And since I was so excited to show it to my partner, I decided to just build it on my own.
 
 Most game mechanics are not related to the actual graphics/fidelity/aesthetics of the game. So I decided I'll go for a simple paper prototype. As you can see in the image above, this prototype has everything needed for the game (**The game has 16 pieces. Each piece has 4 characteristics that makes it unique.**). After playing it for a while I realized some parts would not work out perfectly. Especially the size of the pieces, as from cetain angles it's hard to see the differentiate the sizes of all the pieces. 
 
