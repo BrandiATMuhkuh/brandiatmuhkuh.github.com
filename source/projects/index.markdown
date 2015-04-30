@@ -22,15 +22,29 @@ All projects are sorted by date except the last part (**Little Projects**). Thos
 
 <section class="card">
 # Quarto - from paper prototype to high fidelity laser cut
+{% img shadowImg /images/projects/quarto3.jpg %}
+About ten years a ago my mom introduced me to a board game called [Quarto](http://en.wikipedia.org/wiki/Quarto_%28board_game%29). At the time it was the most awarded game ever (That's what the package said ;) ). When moving to Vienna and later to Christchurch I lost track of this fabioulous strategy game. A couple of month ago I remembered again and tried to find it in local stores. But I couldn't. But since I was so excited to show it to my partner, I decided to just build it on my own.
 
-About ten years a ago my mom introduced me to a board game called Quarto. At the time it was the most awarded game ever (That's what the package said ;) ). When moving to Vienna and later to Christchurch I lost track of this fabioulous strategy game. A couple of month ago I remembered again and tried to find in local stores. But I couldn't find it. Since I was so excited to show it to my partner, I decided to just build it on my own. 
-Most game mechanics are not related to the actual graphics/fidelity/aestetics of the game. So I decided I go for a simple paper prototype. As you can see in the image (xxx), this protoype had everything needed for the game (The game has 16 pieces. Each piece has 4 characteristics that makes it unique.). After playering it for a while we realiced some parts would not work out perfectly. Especially the sice of the pieces. When you sit in the wrong angle it is very hard to see which part is big and which one is small. 
+Most game mechanics are not related to the actual graphics/fidelity/aesthetics of the game. So I decided I go for a simple paper prototype. As you can see in the image above, this prototype has everything needed for the game (**The game has 16 pieces. Each piece has 4 characteristics that makes it unique.**). After playing it for a while we realized some parts would not work out perfectly. Especially the size of the pieces. When you sit in the wrong angle it is very hard to see which part is bigger than the other.
 
-After the game worked as expected, exept the size problem we decided to create a high fidelity laser cut version (see image xxx). To solve the size problem we decided to exchange the different sizes with a spiral. For the colors we used two types of colored plastic and he board was made out of wood. 
+{% img shadowImg /images/projects/quarto5.jpg 300 %}
+{% img shadowImg /images/projects/quarto4.jpg 400 %}
+After the game worked as expected, except the size problem we decided to create a high fidelity laser cut version (First board in the above image.). To solve the size problem we decided to exchange the different sizes with a spiral. For the colors we used two types of colored plastic and the board was made out of wood.
 
-If you look carefully you will see that the box and the game field have a different color. That is because we smoothed it with oil. That gives it a nice shiny color and makes it long lasting. 
+If you look carefully you will see that the finished game and the fresh game field have a different color. That is because we smoothed it with oil. That gives it a nice shiny color and makes it long lasting.
 
-Here is the [quarto.svg](/images/projects/quarto.svg) file to laser cut the game for yourselfe. 
+After playing a bit with the new hi-fi game we saw that some pieces looked similar when turned around. To make sure we always use the top side of the piece, we added a yellow dot at the back. **Happy Playing**.
+
+
+** Technologies Used**
+
+* [Inkscape](https://inkscape.org/en/) is an Open Source alternative to Adobe Illustrator. It's perfect for simple SVG shapes needed for the laser cutter
+* **Laser cutter** is a high precision 2D cutting tool
+
+
+** Resources **
+
+* [quarto.svg](/images/projects/quarto.svg) is the SVG file to create your own game
 
 </section>
 
