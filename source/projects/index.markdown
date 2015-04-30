@@ -15,7 +15,7 @@ All projects are sorted by date except the last part (**Little Projects**). Thos
 
 <section class="card">
 # Figebot - Workout while working
-
+[{% img shadowImg http://fuse.microsoft.com/content/img/fuse_logo.png %}](http://fuse.microsoft.com/)
 
 </section>
 
