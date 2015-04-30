@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: HRI | Jürgen Brandstetter's AKA BrandiATMuhkuh]]></title>
+  <link href="http://muhkuh.me/blog/categories/hri/atom.xml" rel="self"/>
+  <link href="http://muhkuh.me/"/>
+  <updated>2015-04-30T20:40:48+12:00</updated>
+  <id>http://muhkuh.me/</id>
+  <author>
+    <name><![CDATA[Jürgen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Inspiration]]></title>
+    <link href="http://muhkuh.me/blog/2013/05/10/inspiration/"/>
+    <updated>2013-05-10T20:29:00+12:00</updated>
+    <id>http://muhkuh.me/blog/2013/05/10/inspiration</id>
+    <content type="html"><![CDATA[<p>Inspired by <a href="http://marcua.net/writing/gradschool-guide/">Adam Marcus grodschool guide</a> I thought it would be a good idea to post about my PhD.</p>
+
+<p>About one month ago I finished my master in Computer Science, more specific Media Informatics (Human Computer Interaction and Software Architecture) at the <a href="http://www.tuwien.ac.at/en/">Vienna University of Technology</a>. Two days later (2013.03.31) I was on my way from Vienna/Europe to Christchurch/New Zealand to start my PhD in Human Robot Interaction (HRI) at the <a href="http://www.hitlabnz.org">HITLabNZ</a>.</p>
+
+<p>HRI does not only mean walking, talking, moving robots it is also about the influence on humans and the society. In my case, I&rsquo;m very interested how robots influence the human communication by using specific words or special gestures. I think it is very important to understand how <a href="http://en.wikipedia.org/wiki/Humanoid">Humanoids</a> or <a href="http://en.wikipedia.org/wiki/Android_(robot">Androids</a>) influence the human perception, especially when we have robots in every classroom and every household.</p>
+
+<p>Just thinking about the power a company who creates all the robots would have when they can access all the sensors at once. <a href="http://en.wikipedia.org/wiki/Nineteen_Eighty-Four">Big Brother</a> is watching you. Oh and whats about the way robots speak with humans. Is it possible introduce <a href="http://en.wikipedia.org/wiki/Newspeak">Newspeak</a>? I hope not. But we have to find it out and create rules for robots, for science and for decision makers, or we may face a not so happy future.</p>
+
+<p>PS: I hope my english will improve during my PhD. Sorry my mother tongue is german.</p>
+]]></content>
+  </entry>
+  
+</feed>
