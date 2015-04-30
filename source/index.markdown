@@ -199,11 +199,35 @@ A-K-D as a furniture company was changing from a paper based project management 
 
 <section class="card">
 # Papers
-* 2015 - Fidgebot: Working Out while Working, HRI 2015
-* 2015 - Making HRI Accessible to Everyone Through Online Videos. A proposal for a µMOOC in Human Robot Interaction, HRI 2015
-* 2015 - Participants conform to humans but not to humanoid robots in an English past transformational task, Journal of Language & Social Psychology
-* 2014 - Participants converge to humans but not to humanoid robots in an English past tense formation task, Language and Society 2014
-* 2014 - A peer pressure experiment: Recreation of the Asch conformity experiment with robots, IROS 2014
+[Fidgebot: Working Out while Working](/papers/Fidgebot_Working_Out_while_Working.pdf)
+
+* DOI: 10.1145/2701973.2701979
+* Link: [http://dx.doi.org/10.1145/2701973.2701979](http://dx.doi.org/10.1145/2701973.2701979)
+* Year: 2015
+* Conference: HRI 2015
+
+[Making HRI Accessible to Everyone Through Online Videos. A proposal for a µMOOC in Human Robot Interaction](/papers/Making_HRI_Accessible_to_Everyone_Through_Online_Videos_A_proposal_for_a_μ_MOOC_in_Human_Robot_Interaction.pdf)
+
+* Year: 2015
+* Conference: HRI 2015
+
+**Participants conform to humans but not to humanoid robots in an English past transformational task, Journal of Language & Social Psychology**
+
+* Year: 2015
+* Journal: Journal of Language & Social Psychology
+
+[Participants converge to humans but not to humanoid robots in an English past tense formation task](Participants_converge_to_humans_but_not_to_humanoid_robots_in_an_English_past_tense_formation_task.pdf)
+
+* Year: 2014
+* Conference: Language and Society 2014
+
+
+[A peer pressure experiment: Recreation of the Asch conformity experiment with robots](/papers/A_peer_pressure_experiment_Recreation_of_the_Asch_conformity_experiment_with_robots.pdf)
+
+* DOI: 10.1109/IROS.2014.6942730
+* Link: http://dx.doi.org/10.1109/IROS.2014.6942730
+* Year: 2014
+* Conference: IROS 2014
 </section>
 
 <section class="card">
