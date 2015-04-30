@@ -103,12 +103,10 @@ I am a PhD student at the HITLab NZ which is part of the University of Canterbur
 ** Fuse Labs - Microsoft Research **
 [{% img shadowImg http://fuse.microsoft.com/content/img/fuse_logo.png %}](http://fuse.microsoft.com/)
 
-During my time at the FUSE Labs (Microsoft Research) I developed with Kati London and Noah Liebman a two tier tool to persuade co-workers to do more (mico)exercises during work hours. The reason for that was that most societies move to a more and more rigit office type workplace which creates many long term health issues. The two tier were divided into a screen based notification system and a social robot (NAO) based notification system. My main part of the project was to develop the robot side and implement it's navigation and persuasion algorithms.
+During my time at the FUSE Labs (Microsoft Research) I developed with Kati London and Noah Liebman a two tier tool to persuade co-workers to do more (mico)exercises during work hours. The reason for that was that most societies move to a more and more rigid office type workplace which creates many long term health issues. The two tier were divided into a screen based notification system and a social robot (NAO) based notification system. My main part of the project was to develop the robot side and implement it's navigation and persuasion algorithms.
 
 
-**Project link(s):** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers), [Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
-**Project Presentation: ** https://mix.office.com/watch/1txuvzwh356d8 <br />
-**Job tags:** research, persuasive algorithm, robot algorithms, python <br />
+**Project link(s):** [Figebot – Workout while working](projects#anchor002)
 
 **Technologies Used**
 

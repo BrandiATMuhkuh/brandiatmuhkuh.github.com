@@ -14,13 +14,37 @@ All projects are sorted by date except the last part (**Little Projects**). Thos
 </section>
 
 <section class="card">
+<a name="anchor002"></a>
 # Figebot - Workout while working
 [{% img shadowImg http://fuse.microsoft.com/content/img/fuse_logo.png %}](http://fuse.microsoft.com/)
+
+During my time at the FUSE Labs (Microsoft Research) I developed with [Kati London (MSR)](http://www.katilondon.com/bio.html) and [Noah Liebman(NU)](https://noahliebman.net/) a two tier tool to persuade co-workers to do more (mico)exercises during work hours. The reason for that was that most societies move to a more and more rigid office type workplace which creates many long term health issues. The two tier were divided into a screen based notification system and a social robot (NAO) based notification system.
+
+<iframe width="100%" height="315" src="//www.youtube.com/embed/aZkmNqpJCcM?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
+
+Before participants could use one of each systems, they hat to set their daily goals. We didn't want to impose preset goal for all employees. Depending on each own goal, one of our systems would reach out to them and provoke a micro exercise.
+{% img shadowImg /images/projects/fidgebot4.jpg %}
+
+After the participant is set up. Our system will use one of the following two methods. Participant one would get a screen based notification. We simply used a modern HTML5 notifications for that.
+{% img shadowImg /images/projects/fidgebot5.png 250 %} For participants two, we would send a notification to NAO to her wake up. NAO would than walk to the participant and ask if she/he wants to do a short break with her (Yes NAO is female).
+
+If the participants agrees NAO would start a random micro-excersice. In the following pictures NAO and the participants are dancing the [chicken dance](https://www.youtube.com/watch?v=4xmV5uHWNag). Always amuses Microsoft employees.
+{% img shadowImg /images/projects/fidgebot2.gif 400 %}{% img shadowImg /images/projects/fidgebot3.gif 400 %}
+
+
+**Project link(s):** [Working Out While Working](http://blog.fuselabs.org/post/97150732716/working-out-while-working), [Fidgebot by the Numbers](http://blog.fuselabs.org/post/97247581736/fidgebot-by-the-numbers), [Fidgebot: Robot Experience](http://blog.fuselabs.org/post/97308195741/fidgebot-robot-experience) <br />
+**Project Presentation: ** https://mix.office.com/watch/1txuvzwh356d8 <br />
+
+**Technologies Used**
+
+* [Python](https://www.python.org/) Used as webserver as well as NAO script language
+* [NAOqi](http://doc.aldebaran.com/2-1/naoqi/index.html) Is the SDK used to control [NAO](https://www.aldebaran.com/en/humanoid-robot/nao-robot) robots
 
 </section>
 
 
 <section class="card">
+<a name="anchor001"></a>
 # Quarto - from paper prototype to high fidelity laser cut
 {% img shadowImg /images/projects/quarto3.jpg %}
 About ten years a ago my mom introduced me to a board game called [Quarto](http://en.wikipedia.org/wiki/Quarto_%28board_game%29). At the time it was the most awarded game ever (That's what the package said ;) ). When moving to Vienna and later to Christchurch I lost track of this fabioulous strategy game. A couple of month ago I remembered again and tried to find it in local stores. But I couldn't. But since I was so excited to show it to my partner, I decided to just build it on my own.
