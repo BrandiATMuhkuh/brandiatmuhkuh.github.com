@@ -18,17 +18,17 @@ All projects are sorted by date except the last part (**Little Projects**). Thos
 # Figebot - Workout while working
 [{% img shadowImg http://fuse.microsoft.com/content/img/fuse_logo.png %}](http://fuse.microsoft.com/)
 
-During my time at the FUSE Labs (Microsoft Research) I developed with [Kati London (MSR)](http://www.katilondon.com/bio.html) and [Noah Liebman(NU)](https://noahliebman.net/) a two tier tool to persuade co-workers to do more (mico)exercises during work hours. The reason for that was that most societies move to a more and more rigid office type workplace which creates many long term health issues. The two tier were divided into a screen based notification system and a social robot (NAO) based notification system.
+During my time at the FUSE Labs (Microsoft Research) I developed with [Kati London (MSR)](http://www.katilondon.com/bio.html) and [Noah Liebman(NU)](https://noahliebman.net/) a two tier tool to persuade co-workers to do more (mico)exercises during work hours. The reason for that was that most societies work in their offices setting down, which creates many long term health issues. The two tier were divided into a screen based notification system and a social robot (NAO) based notification system.
 
 <iframe width="100%" height="315" src="//www.youtube.com/embed/aZkmNqpJCcM?rel=0" frameborder="0" allowfullscreen class="shadowImg"></iframe>
 
-Before participants could use one of each systems, they hat to set their daily goals. We didn't want to impose preset goal for all employees. Depending on each own goal, one of our systems would reach out to them and provoke a micro exercise.
+Before participants could use any of these two systems, they were asked to set their daily goals. We didn't want to preset goals for all employees, as each one had to reach their own set goal; it's more persuasive this way! One of our systems was set to approach the employee and provoke a micro exercise.
 {% img shadowImg /images/projects/fidgebot4.jpg %}
 
 After the participant is set up. Our system will use one of the following two methods. Participant one would get a screen based notification. We simply used a modern HTML5 notifications for that.
-{% img shadowImg /images/projects/fidgebot5.png 250 %} For participants two, we would send a notification to NAO to her wake up. NAO would than walk to the participant and ask if she/he wants to do a short break with her (Yes NAO is female).
+{% img shadowImg /images/projects/fidgebot5.png 250 %} For participant two, we sent a notification to NAO to wake her up (yes NAO is a female).. NAO would than walk to the participant and ask if s/he wants to do a short break with her...
 
-If the participants agrees NAO would start a random micro-excersice. In the following pictures NAO and the participants are dancing the [chicken dance](https://www.youtube.com/watch?v=4xmV5uHWNag). Always amuses Microsoft employees.
+If the participant agrees, NAO then starts a random micro-excersice. In the following pictures NAO and two participants are dancing the [chicken dance](https://www.youtube.com/watch?v=4xmV5uHWNag). Always amuses Microsoft employees.
 {% img shadowImg /images/projects/fidgebot2.gif 400 %}{% img shadowImg /images/projects/fidgebot3.gif 400 %}
 
 
@@ -47,17 +47,17 @@ If the participants agrees NAO would start a random micro-excersice. In the foll
 <a name="anchor001"></a>
 # Quarto - from paper prototype to high fidelity laser cut
 {% img shadowImg /images/projects/quarto3.jpg %}
-About ten years a ago my mom introduced me to a board game called [Quarto](http://en.wikipedia.org/wiki/Quarto_%28board_game%29). At the time it was the most awarded game ever (That's what the package said ;) ). When moving to Vienna and later to Christchurch I lost track of this fabioulous strategy game. A couple of month ago I remembered again and tried to find it in local stores. But I couldn't. But since I was so excited to show it to my partner, I decided to just build it on my own.
+About ten years ago, my mom introduced me to a board game called [Quarto](http://en.wikipedia.org/wiki/Quarto_%28board_game%29). At the time it was the most awarded game ever (that's what's written on the package at least ;) ). After moving to Vienna and later to Christchurch I stopped playing this fabioulous strategy game. A couple of months ago I remembered again and tried to find it in local stores, but I couldn't. And since I was so excited to show it to my partner, I decided to just build it on my own.
 
-Most game mechanics are not related to the actual graphics/fidelity/aesthetics of the game. So I decided I go for a simple paper prototype. As you can see in the image above, this prototype has everything needed for the game (**The game has 16 pieces. Each piece has 4 characteristics that makes it unique.**). After playing it for a while we realized some parts would not work out perfectly. Especially the size of the pieces. When you sit in the wrong angle it is very hard to see which part is bigger than the other.
+Most game mechanics are not related to the actual graphics/fidelity/aesthetics of the game. So I decided I'll go for a simple paper prototype. As you can see in the image above, this prototype has everything needed for the game (**The game has 16 pieces. Each piece has 4 characteristics that makes it unique.**). After playing it for a while I realized some parts would not work out perfectly. Especially the size of the pieces, as from cetain angles it's hard to see the differentiate the sizes of all the pieces. 
 
 {% img shadowImg /images/projects/quarto5.jpg 300 %}
 {% img shadowImg /images/projects/quarto4.jpg 400 %}
-After the game worked as expected, except the size problem we decided to create a high fidelity laser cut version (First board in the above image.). To solve the size problem we decided to exchange the different sizes with a spiral. For the colors we used two types of colored plastic and the board was made out of wood.
+After the game had worked as expected, except the size problem, I decided to create a high fidelity laser cut version (First board in the above image.). To solve the size problem I exchanged the different sizes with a spiral. For the colors I used two types of colored plastic and the board was made out of wood.
 
-If you look carefully you will see that the finished game and the fresh game field have a different color. That is because we smoothed it with oil. That gives it a nice shiny color and makes it long lasting.
+If you look carefully you will see that the finished game and the fresh game field have a different color. That is because I smoothed it with oil. That gave it a nice shiny look and expected to make it last longer. 
 
-After playing a bit with the new hi-fi game we saw that some pieces looked similar when turned around. To make sure we always use the top side of the piece, we added a yellow dot at the back. **Happy Playing**.
+After playing a bit with the new high fidelity game, I saw that some pieces looked similar when turned around. To make sure that I always use the top side of the piece, I added a yellow dot at the back. **Happy Playing**.
 
 
 ** Technologies Used**
