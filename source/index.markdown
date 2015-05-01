@@ -216,7 +216,7 @@ A-K-D as a furniture company was changing from a paper based project management 
 * Year: 2015
 * Journal: Journal of Language & Social Psychology
 
-[Participants converge to humans but not to humanoid robots in an English past tense formation task](Participants_converge_to_humans_but_not_to_humanoid_robots_in_an_English_past_tense_formation_task.pdf)
+[Participants converge to humans but not to humanoid robots in an English past tense formation task](/papers/Participants_converge_to_humans_but_not_to_humanoid_robots_in_an_English_past_tense_formation_task.pdf)
 
 * Year: 2014
 * Conference: Language and Society 2014
