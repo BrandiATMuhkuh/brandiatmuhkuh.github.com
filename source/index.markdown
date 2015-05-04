@@ -198,7 +198,7 @@ A-K-D as a furniture company was changing from a paper based project management 
 </section>
 
 <section class="card">
-# Papers
+# Publications
 [Fidgebot: Working Out while Working](/papers/Fidgebot_Working_Out_while_Working.pdf)
 
 * DOI: 10.1145/2701973.2701979
@@ -211,10 +211,13 @@ A-K-D as a furniture company was changing from a paper based project management 
 * Year: 2015
 * Conference: HRI 2015
 
-**Participants conform to humans but not to humanoid robots in an English past transformational task, Journal of Language & Social Psychology**
+[Participants Conform to Humans but Not to Humanoid Robots in an English Past Tense Formation Task](http://jls.sagepub.com/content/early/2015/04/28/0261927X15584682.full.pdf+html)
 
+* DOI: 10.1177/0261927X15584682
+* Link: [http://dx.doi.org/10.1177/0261927X15584682](http://dx.doi.org/10.1177/0261927X15584682)
 * Year: 2015
 * Journal: Journal of Language & Social Psychology
+
 
 [Participants converge to humans but not to humanoid robots in an English past tense formation task](/papers/Participants_converge_to_humans_but_not_to_humanoid_robots_in_an_English_past_tense_formation_task.pdf)
 
