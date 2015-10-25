@@ -15,13 +15,14 @@ In other words, I do what I love :D
 <section class="card">
 
 # Affiliation(s)
+
 <section class="card">
-## Northwestern University & Templeton Foundation
-[{% img shadowImg /images/frontpage/NU_Logo_purple.jpg %}](http://www.northwestern.edu)
+## Univeristy of Oxford & Templeton Foundation
+[{% img shadowImg /images/frontpage/oxford.gif %}](http://www.ox.ac.uk)
 [{% img shadowImg /images/frontpage/primary_logo_RGB.jpg 500 %}](http://www.templeton.org)
 
 
-I'm part of a research project called "[Wordovator](http://www.wordovators.org/)". The research is funded by the [John Templeton Foundation](http://www.templeton.org/) and is led by the Northwestern University. [Press release for the Wordovator project](http://www.northwestern.edu/newscenter/stories/2013/03/playing-computer-games-for-fun-and-research.html)
+I'm part of a research project called "[Wordovator](http://www.wordovators.org/)". The research is funded by the [John Templeton Foundation](http://www.templeton.org/) and is led by the Univeristy of Oxford. The previour head location was the Northwestern University [Press release for the Wordovator project](http://www.northwestern.edu/newscenter/stories/2013/03/playing-computer-games-for-fun-and-research.html)
 </section>
 
 <section class="card">
