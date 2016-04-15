@@ -200,6 +200,20 @@ A-K-D as a furniture company was changing from a paper based project management 
 
 <section class="card">
 # Publications
+[Can a Robot Bribe a Human? The Measurement of the Negative Side of Reciprocity in Human Robot Interaction.](/papers/can_robots_bribe.pdf)
+
+* ISBN: 978-1-4673-8370-7
+* Link: [http://dl.acm.org/citation.cfm?id=2906853](http://dl.acm.org/citation.cfm?id=2906853)
+* Year: 2016
+* Conference: HRI 2016
+
+[Reciprocity in Human-Robot Interaction: A Quantitative Approach Through the Prisoner’s Dilemma and the Ultimatum Game](/papers/Receiprocity_in_HRI.pdf)
+
+* DOI: 10.1007/s12369-015-0323-x
+* Link: [https://dx.doi.org/10.1007/s12369-015-0323-x](https://dx.doi.org/10.1007/s12369-015-0323-x)
+* Year: 2015
+* Journal: International Journal of Social Robotics
+
 [Fidgebot: Working Out while Working](/papers/Fidgebot_Working_Out_while_Working.pdf)
 
 * DOI: 10.1145/2701973.2701979
@@ -248,6 +262,11 @@ A-K-D as a furniture company was changing from a paper based project management 
 # Conferences and Barcamps
 Since I lived and studied in two of the coolest European cities Vienna and Copenhagen I had the chance to attend many conferences and barcamp. The following is a list of nice events I could attend.
 
+* 2015/03/2 [HRI 2016](http://humanrobotinteraction.org/2016/), Christchurch
+	* Part of the organisational team
+	* Paper presentation [Can a Robot Bribe a Human? The Measurement of the Negative Side of Reciprocity in Human Robot Interaction.](http://dl.acm.org/citation.cfm?id=2906853)
+* 2015/03/2 [HRI 2016](http://humanrobotinteraction.org/2015/), Seattle
+	* Part of student volunteering team
 * 2014/10/27 [ICSR 2014](http://icsr2014.org/), Sydney
 	* Part of the International Program Committee
 * 2014/09/14 [IROS 2014](http://www.iros2014.org/), Chichago
