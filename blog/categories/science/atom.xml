@@ -4,7 +4,7 @@
   <title><![CDATA[Category: science | Jürgen Brandstetter's AKA BrandiATMuhkuh]]></title>
   <link href="http://muhkuh.me/blog/categories/science/atom.xml" rel="self"/>
   <link href="http://muhkuh.me/"/>
-  <updated>2015-10-25T18:51:15+00:00</updated>
+  <updated>2016-08-24T17:48:18+02:00</updated>
   <id>http://muhkuh.me/</id>
   <author>
     <name><![CDATA[Jürgen]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[2 column paper to kindle]]></title>
     <link href="http://muhkuh.me/blog/2014/05/10/2colPdfToKindle/"/>
-    <updated>2014-05-10T20:29:00+01:00</updated>
+    <updated>2014-05-10T20:29:00+02:00</updated>
     <id>http://muhkuh.me/blog/2014/05/10/2colPdfToKindle</id>
     <content type="html"><![CDATA[<p>There are not many things I would say I hate however there is one I do. A scientific paper with two columns. Actually any book paper whatever with 2 columns. It is realy a pain to read such pdf on a kindle or any other output files. To solve my problems I set down for 2 hours and created a small script which convertes a 2 column pdf into a nice for kindle readable pdf and sends it directly per email to my kindle.</p>
 
