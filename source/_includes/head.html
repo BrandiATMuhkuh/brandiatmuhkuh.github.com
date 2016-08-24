@@ -36,7 +36,11 @@
   pagescrub_key="unohkai8uDohPohdee4Leek2";
   </script>
   <script src="//api.pagescrub.com/cors.js"></script>
-  <script>pageScrub(function(){});</script>
+  <script>pageScrub(function(){
+    if (window.console) {
+      console.log("PageScrub runs on this page! No more ads. No more poor writer. https://pagescrub.com");
+    }
+  });</script>
   {% include custom/head.html %}
   {% include google_analytics.html %}
 </head>
