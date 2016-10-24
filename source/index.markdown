@@ -12,7 +12,7 @@ Currently, I’m a PhD student in Human Robot Interaction (HRI) at the Human Int
 In other words, I do what I love :D
 
 
-<iframe src="https://drive.google.com/file/d/0BydzO1mEr3HlWnl5TW1ieF8wMmc/preview" width="640" height="480"></iframe>
+<iframe width="100%" height="315" src="//drive.google.com/file/d/0BydzO1mEr3HlWnl5TW1ieF8wMmc/preview" frameborder="0" allowfullscreen class="shadowImg" ></iframe>
 If you don't want to read through all my projects, just have a look at this portrait the ORF (Austrian BBC) made about me. 
 </section>
 
