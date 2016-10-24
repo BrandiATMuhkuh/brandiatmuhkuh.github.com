@@ -10,6 +10,10 @@ footer: true
 Currently, I’m a PhD student in Human Robot Interaction (HRI) at the Human Interface Technology Laboratory New Zealand (HITLabNZ), which is part of the university of Canterbury. I’m also a full stack developer, android developer, prototyping enthusiast, User Experience Designer, entrepreneur and design thinking tutor. In short, I’m involved in anything that is in hardware or software.
 
 In other words, I do what I love :D
+
+
+<iframe src="https://drive.google.com/file/d/0BydzO1mEr3HlWnl5TW1ieF8wMmc/preview" width="640" height="480"></iframe>
+If you don't want to read through all my projects, just have a look at this portrait the ORF (Austrian BBC) made about me. 
 </section>
 
 <section class="card">
